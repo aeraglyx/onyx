@@ -1,8 +1,8 @@
 # Onyx
 
-My custom dark Blender theme with low contrast and blue accents. Note that this is still work in progress.
+Custom dark Blender theme with low contrast and blue accents. Still work in progress.
 
-Last tested - 2.93 LTS
+Last tested - 3.0 Alpha
 
 ## Colour Pallete
-`#202020`, `#292929`, `#58a2cc`, `#cccccc`
+`#202020`, `#292929`, `#58a2cc`, `#bfbfbf`
