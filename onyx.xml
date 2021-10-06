@@ -5,9 +5,9 @@
         menu_shadow_fac="0.5"
         menu_shadow_width="4"
         icon_alpha="1"
-        icon_saturation="0"
+        icon_saturation="0.5"
         widget_emboss="#00000000"
-        editor_outline="#1a1a1a"
+        editor_outline="#202020"
         widget_text_cursor="#58a2cc"
         transparent_checker_primary="#292929"
         transparent_checker_secondary="#202020"
@@ -80,7 +80,7 @@
             outline="#292929"
             inner="#202020ff"
             inner_sel="#58a2cce6"
-            item="#ffffffff"
+            item="#292929ff"
             text="#bfbfbf"
             text_sel="#202020"
             show_shaded="FALSE"
@@ -257,7 +257,7 @@
         </wcol_tooltip>
         <wcol_menu_item>
           <ThemeWidgetColors
-            outline="#000000"
+            outline="#393939"
             inner="#20202000"
             inner_sel="#58a2ccff"
             item="#ffffff80"
@@ -317,12 +317,12 @@
         </wcol_list_item>
         <wcol_state>
           <ThemeWidgetStateColors
-            inner_anim="#53992e"
-            inner_anim_sel="#51932f"
+            inner_anim="#4ecd81"
+            inner_anim_sel="#509f70"
             inner_key="#b3ae36"
-            inner_key_sel="#c1b157"
-            inner_driven="#9f33cc"
-            inner_driven_sel="#ac3ae6"
+            inner_key_sel="#c3b461"
+            inner_driven="#a34bff"
+            inner_driven_sel="#ab6fea"
             inner_overridden="#00c3c3"
             inner_overridden_sel="#118f8f"
             inner_changed="#cc7529"
@@ -544,19 +544,19 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#282828"
+            back="#202020"
             title="#bfbfbf"
             text="#bfbfbf"
             text_hi="#bfbfbf"
             header="#202020ff"
             header_text="#bfbfbf"
             header_text_hi="#bfbfbf"
-            button="#202020ff"
+            button="#292929ff"
             button_title="#bfbfbf"
             button_text="#bfbfbf"
             button_text_hi="#bfbfbf"
             navigation_bar="#00000000"
-            execution_buts="#202020ff"
+            execution_buts="#292929ff"
             tab_active="#292929"
             tab_inactive="#292929"
             tab_back="#202020ff"
@@ -643,23 +643,23 @@
     </nla_editor>
     <dopesheet_editor>
       <ThemeDopeSheet
-        grid="#404040"
+        grid="#393939"
         frame_current="#58a2cc"
         time_scrub_background="#202020ff"
-        time_marker_line="#00000060"
-        time_marker_line_selected="#ffffff60"
+        time_marker_line="#808080ff"
+        time_marker_line_selected="#bfbfbfff"
         value_sliders="#000000"
         view_sliders="#c0c0c0"
-        dopesheet_channel="#0f2c4d24"
+        dopesheet_channel="#26706b24"
         dopesheet_subchannel="#143e6624"
-        channels="#333333ff"
-        channels_selected="#60c04044"
-        channel_group="#16330f37"
-        active_channels_group="#36802455"
-        long_key="#1a151580"
-        long_key_selected="#ff8c00cc"
-        keyframe="#e8e8e8"
-        keyframe_selected="#ffbe33"
+        channels="#2020202d"
+        channels_selected="#4d4d4d80"
+        channel_group="#20202040"
+        active_channels_group="#5396bc55"
+        long_key="#202020b3"
+        long_key_selected="#202020ff"
+        keyframe="#808080"
+        keyframe_selected="#80d1ff"
         keyframe_extreme="#e8b3cc"
         keyframe_extreme_selected="#f28080"
         keyframe_breakdown="#b3dbe8"
@@ -668,10 +668,10 @@
         keyframe_jitter_selected="#61c042"
         keyframe_movehold="#5c5656"
         keyframe_movehold_selected="#ffaf23"
-        keyframe_border="#000000ff"
-        keyframe_border_selected="#000000ff"
+        keyframe_border="#202020ff"
+        keyframe_border_selected="#202020ff"
         keyframe_scale_factor="1"
-        summary="#4d250066"
+        summary="#4d4d4d80"
         preview_range="#a14d0066"
         interpolation_line="#94e575cc"
         >
@@ -710,7 +710,7 @@
             list="#282828"
             list_title="#ffffff"
             list_text="#bfbfbf"
-            list_text_hi="#ffaf29"
+            list_text_hi="#ffffff"
             >
           </ThemeSpaceListGeneric>
         </space_list>
@@ -891,17 +891,17 @@
     </properties>
     <text_editor>
       <ThemeTextEditor
-        line_numbers="#606060"
+        line_numbers="#404040"
         line_numbers_background="#202020"
-        selected_text="#2e2e2e"
+        selected_text="#333333"
         cursor="#ffffff"
-        syntax_builtin="#ff546e"
-        syntax_symbols="#68c6e7"
-        syntax_special="#68c6e7"
-        syntax_preprocessor="#ffd580"
+        syntax_builtin="#6ac4eb"
+        syntax_symbols="#6ac4eb"
+        syntax_special="#6ac4eb"
+        syntax_preprocessor="#61ffcd"
         syntax_reserved="#c4753b"
         syntax_comment="#606060"
-        syntax_string="#74ce93"
+        syntax_string="#d38fff"
         syntax_numbers="#d38fff"
         >
         <space>
@@ -941,7 +941,7 @@
         grid="#000000"
         node_selected="#999999"
         node_active="#40b7ff"
-        wire="#000000"
+        wire="#232323"
         wire_inner="#000000"
         wire_select="#40b7ff"
         selected_text="#7f7070"
@@ -1135,12 +1135,12 @@
     </preferences>
     <console>
       <ThemeConsole
-        line_output="#58a2cc"
+        line_output="#6ac4eb"
         line_input="#bfbfbf"
-        line_info="#74ce93"
-        line_error="#ff4d84"
+        line_info="#808080"
+        line_error="#ff4286"
         cursor="#ffffff"
-        select="#ffffff20"
+        select="#ffffff1a"
         >
         <space>
           <ThemeSpaceGeneric
@@ -1505,15 +1505,15 @@
     </bone_color_sets>
     <collection_color>
       <ThemeCollectionColor
-        color="#e2605b"
+        color="#dc4773"
         >
       </ThemeCollectionColor>
       <ThemeCollectionColor
-        color="#f1a355"
+        color="#f18d55"
         >
       </ThemeCollectionColor>
       <ThemeCollectionColor
-        color="#f1dc55"
+        color="#efdc64"
         >
       </ThemeCollectionColor>
       <ThemeCollectionColor
@@ -1525,24 +1525,61 @@
         >
       </ThemeCollectionColor>
       <ThemeCollectionColor
-        color="#8d59da"
+        color="#7368ec"
         >
       </ThemeCollectionColor>
       <ThemeCollectionColor
-        color="#c673b8"
+        color="#da7ad6"
         >
       </ThemeCollectionColor>
       <ThemeCollectionColor
-        color="#7a5441"
+        color="#ffffff"
         >
       </ThemeCollectionColor>
     </collection_color>
+    <strip_color>
+      <ThemeStripColor
+        color="#e2605b"
+        >
+      </ThemeStripColor>
+      <ThemeStripColor
+        color="#f1a355"
+        >
+      </ThemeStripColor>
+      <ThemeStripColor
+        color="#f1dc55"
+        >
+      </ThemeStripColor>
+      <ThemeStripColor
+        color="#7bcc7b"
+        >
+      </ThemeStripColor>
+      <ThemeStripColor
+        color="#5db6ea"
+        >
+      </ThemeStripColor>
+      <ThemeStripColor
+        color="#8d59da"
+        >
+      </ThemeStripColor>
+      <ThemeStripColor
+        color="#c673b8"
+        >
+      </ThemeStripColor>
+      <ThemeStripColor
+        color="#7a5441"
+        >
+      </ThemeStripColor>
+      <ThemeStripColor
+        color="#5f5f5f"
+        >
+      </ThemeStripColor>
+    </strip_color>
   </Theme>
   <ThemeStyle>
     <panel_title>
       <ThemeFontStyle
         points="12"
-        font_kerning_style="FITTED"
         shadow="3"
         shadow_offset_x="0"
         shadow_offset_y="-1"
@@ -1554,7 +1591,6 @@
     <widget_label>
       <ThemeFontStyle
         points="11"
-        font_kerning_style="FITTED"
         shadow="3"
         shadow_offset_x="0"
         shadow_offset_y="-1"
@@ -1566,7 +1602,6 @@
     <widget>
       <ThemeFontStyle
         points="11"
-        font_kerning_style="FITTED"
         shadow="1"
         shadow_offset_x="0"
         shadow_offset_y="-1"
