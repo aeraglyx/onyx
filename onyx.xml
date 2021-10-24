@@ -940,22 +940,23 @@
     <node_editor>
       <ThemeNodeEditor
         grid="#000000"
-        node_selected="#999999"
-        node_active="#40b7ff"
+        node_selected="#ffffff"
+        node_active="#ffffff"
         wire="#202020"
         wire_inner="#595959"
-        wire_select="#40b7ff"
+        wire_select="#ffffff"
         selected_text="#7f7070"
         node_backdrop="#3d3d3dff"
         converter_node="#6ba8db"
         color_node="#d5c45b"
         group_node="#202020bf"
         group_socket_node="#1a1a1a"
-        frame_node="#2020207d"
+        frame_node="#1a1a1aff"
         matte_node="#975b5b"
         distor_node="#749797"
         noodle_curving="0"
         grid_levels="0"
+        dash_alpha="0.5"
         input_node="#d5416c"
         output_node="#d5416c"
         filter_node="#584d80"
@@ -970,7 +971,7 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#1a1a1a"
+            back="#202020"
             title="#bfbfbf"
             text="#bfbfbf"
             text_hi="#bfbfbf"
