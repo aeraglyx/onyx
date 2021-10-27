@@ -939,14 +939,14 @@
     </text_editor>
     <node_editor>
       <ThemeNodeEditor
-        grid="#000000"
+        grid="#333333"
         node_selected="#ffffff"
         node_active="#ffffff"
         wire="#202020"
         wire_inner="#595959"
-        wire_select="#ffffff"
+        wire_select="#ffffffbf"
         selected_text="#7f7070"
-        node_backdrop="#3d3d3dff"
+        node_backdrop="#333333ff"
         converter_node="#6ba8db"
         color_node="#d5c45b"
         group_node="#202020bf"
@@ -955,7 +955,7 @@
         matte_node="#975b5b"
         distor_node="#749797"
         noodle_curving="0"
-        grid_levels="0"
+        grid_levels="7"
         dash_alpha="0.5"
         input_node="#d5416c"
         output_node="#d5416c"
