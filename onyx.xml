@@ -108,7 +108,7 @@
         </wcol_text>
         <wcol_option>
           <ThemeWidgetColors
-            outline="#202020"
+            outline="#404040"
             inner="#202020ff"
             inner_sel="#5395bbff"
             item="#202020ff"
@@ -213,7 +213,7 @@
         </wcol_pulldown>
         <wcol_menu_back>
           <ThemeWidgetColors
-            outline="#292929"
+            outline="#606060"
             inner="#292929ff"
             inner_sel="#292929ff"
             item="#808080ff"
