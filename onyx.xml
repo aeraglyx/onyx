@@ -28,7 +28,7 @@
         icon_object_data="#5ec8c8ff"
         icon_modifier="#bfbfbfff"
         icon_shading="#c16192ff"
-        icon_folder="#8273bfff"
+        icon_folder="#131313ff"
         icon_border_intensity="0"
         >
         <wcol_regular>
@@ -213,7 +213,7 @@
         </wcol_pulldown>
         <wcol_menu_back>
           <ThemeWidgetColors
-            outline="#606060"
+            outline="#404040"
             inner="#292929ff"
             inner_sel="#292929ff"
             item="#808080ff"
@@ -222,7 +222,7 @@
             show_shaded="FALSE"
             shadetop="25"
             shadedown="-20"
-            roundness="0.5"
+            roundness="0.75"
             >
           </ThemeWidgetColors>
         </wcol_menu_back>
