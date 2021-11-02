@@ -366,13 +366,13 @@
         empty="#808080"
         light="#80808040"
         speaker="#808080"
-        vertex="#808080"
-        vertex_select="#6ad2ff"
+        vertex="#0d0d0d"
+        vertex_select="#80deff"
         vertex_active="#000000"
         vertex_size="4"
         vertex_bevel="#00a5ff"
         vertex_unreferenced="#000000"
-        edge_select="#7ecfff"
+        edge_select="#43c7ff"
         edge_seam="#db2512"
         edge_sharp="#00ffff"
         edge_crease="#cc0099"
@@ -380,7 +380,7 @@
         edge_facesel="#595959"
         freestyle_edge_mark="#7fff7f"
         face="#00000020"
-        face_select="#5395bb40"
+        face_select="#58d2ff40"
         face_dot="#ff8a00"
         facedot_size="4"
         freestyle_face_mark="#7fff7f4d"
@@ -855,8 +855,8 @@
     </sequence_editor>
     <properties>
       <ThemeProperties
-        match="#58a2cc"
-        active_modifier="#58a2ccff"
+        match="#5396bc"
+        active_modifier="#5396bcff"
         >
         <space>
           <ThemeSpaceGeneric
@@ -960,7 +960,7 @@
         input_node="#e03399"
         output_node="#690d34"
         filter_node="#584d80"
-        vector_node="#6560ef"
+        vector_node="#585feb"
         texture_node="#ce7348"
         shader_node="#5c9d78"
         script_node="#084d4d"
