@@ -557,7 +557,7 @@
             button_text="#bfbfbf"
             button_text_hi="#202020"
             navigation_bar="#00000000"
-            execution_buts="#292929ff"
+            execution_buts="#2a2a2aff"
             tab_active="#5396bc"
             tab_inactive="#292929"
             tab_back="#202020ff"
@@ -795,7 +795,7 @@
     </image_editor>
     <sequence_editor>
       <ThemeSequenceEditor
-        grid="#262626"
+        grid="#404040"
         window_sliders="#a0a0a0"
         movie_strip="#4d6890"
         movieclip_strip="#8f4c4c"
@@ -823,7 +823,7 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#363636"
+            back="#2a2a2a"
             title="#bfbfbf"
             text="#bfbfbf"
             text_hi="#bfbfbf"
