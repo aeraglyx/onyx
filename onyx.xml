@@ -359,7 +359,7 @@
         gp_vertex_select="#ff8500"
         gp_vertex_size="4"
         text_grease_pencil="#b5e61d"
-        object_selected="#bfbfbf"
+        object_selected="#7269d1"
         object_active="#40c6ff"
         text_keyframe="#dddb85"
         camera="#808080"
@@ -557,7 +557,7 @@
             button_text="#bfbfbf"
             button_text_hi="#202020"
             navigation_bar="#00000000"
-            execution_buts="#2a2a2aff"
+            execution_buts="#292929ff"
             tab_active="#5396bc"
             tab_inactive="#292929"
             tab_back="#202020ff"
@@ -795,7 +795,7 @@
     </image_editor>
     <sequence_editor>
       <ThemeSequenceEditor
-        grid="#404040"
+        grid="#262626"
         window_sliders="#a0a0a0"
         movie_strip="#4d6890"
         movieclip_strip="#8f4c4c"
@@ -823,7 +823,7 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#2a2a2a"
+            back="#363636"
             title="#bfbfbf"
             text="#bfbfbf"
             text_hi="#bfbfbf"
@@ -940,7 +940,7 @@
     <node_editor>
       <ThemeNodeEditor
         grid="#2a2a2a"
-        node_selected="#64b5ff"
+        node_selected="#8b80ff"
         node_active="#ffffff"
         wire="#202020"
         wire_inner="#595959"
@@ -1015,7 +1015,7 @@
         match="#417970"
         selected_highlight="#2e2e2e"
         active="#404040"
-        selected_object="#bfbfbf"
+        selected_object="#9b95ff"
         active_object="#ffffff"
         edited_object="#58a2ccff"
         row_alternate="#ffffff03"
