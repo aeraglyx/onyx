@@ -33,7 +33,7 @@
         >
         <wcol_regular>
           <ThemeWidgetColors
-            outline="#292929"
+            outline="#393939"
             inner="#202020ff"
             inner_sel="#58a2ccff"
             item="#404040ff"
@@ -48,7 +48,7 @@
         </wcol_regular>
         <wcol_tool>
           <ThemeWidgetColors
-            outline="#292929"
+            outline="#393939"
             inner="#202020ff"
             inner_sel="#58a2ccff"
             item="#ffffffff"
@@ -63,7 +63,7 @@
         </wcol_tool>
         <wcol_toolbar_item>
           <ThemeWidgetColors
-            outline="#292929"
+            outline="#393939"
             inner="#292929ff"
             inner_sel="#58a2ccff"
             item="#bfbfbfff"
@@ -78,7 +78,7 @@
         </wcol_toolbar_item>
         <wcol_radio>
           <ThemeWidgetColors
-            outline="#292929"
+            outline="#393939"
             inner="#202020ff"
             inner_sel="#58a2cce6"
             item="#292929ff"
@@ -93,7 +93,7 @@
         </wcol_radio>
         <wcol_text>
           <ThemeWidgetColors
-            outline="#292929"
+            outline="#393939"
             inner="#202020ff"
             inner_sel="#1a1a1aff"
             item="#202020ff"
@@ -123,7 +123,7 @@
         </wcol_option>
         <wcol_toggle>
           <ThemeWidgetColors
-            outline="#292929"
+            outline="#393939"
             inner="#202020ff"
             inner_sel="#58a2ccff"
             item="#202020ff"
@@ -138,7 +138,7 @@
         </wcol_toggle>
         <wcol_num>
           <ThemeWidgetColors
-            outline="#292929"
+            outline="#393939"
             inner="#202020ff"
             inner_sel="#1a1a1aff"
             item="#202020ff"
@@ -153,7 +153,7 @@
         </wcol_num>
         <wcol_numslider>
           <ThemeWidgetColors
-            outline="#292929"
+            outline="#393939"
             inner="#202020ff"
             inner_sel="#1a1a1aff"
             item="#404040ff"
@@ -168,7 +168,7 @@
         </wcol_numslider>
         <wcol_box>
           <ThemeWidgetColors
-            outline="#404040"
+            outline="#393939"
             inner="#252525ff"
             inner_sel="#5c6067ff"
             item="#1a1a1aff"
@@ -183,7 +183,7 @@
         </wcol_box>
         <wcol_menu>
           <ThemeWidgetColors
-            outline="#292929"
+            outline="#393939"
             inner="#202020ff"
             inner_sel="#1a1a1aff"
             item="#bfbfbfff"
@@ -198,7 +198,7 @@
         </wcol_menu>
         <wcol_pulldown>
           <ThemeWidgetColors
-            outline="#292929"
+            outline="#393939"
             inner="#202020ff"
             inner_sel="#58a2ccff"
             item="#404040ff"
@@ -228,7 +228,7 @@
         </wcol_menu_back>
         <wcol_pie_menu>
           <ThemeWidgetColors
-            outline="#202020"
+            outline="#393939"
             inner="#202020ff"
             inner_sel="#58a2ccff"
             item="#bfbfbfff"
@@ -243,7 +243,7 @@
         </wcol_pie_menu>
         <wcol_tooltip>
           <ThemeWidgetColors
-            outline="#808080"
+            outline="#393939"
             inner="#1a1a1ae6"
             inner_sel="#1a1a1ae6"
             item="#1a1a1ae6"
@@ -273,7 +273,7 @@
         </wcol_menu_item>
         <wcol_scroll>
           <ThemeWidgetColors
-            outline="#292929"
+            outline="#393939"
             inner="#40404040"
             inner_sel="#bfbfbfff"
             item="#404040ff"
@@ -288,7 +288,7 @@
         </wcol_scroll>
         <wcol_progress>
           <ThemeWidgetColors
-            outline="#292929"
+            outline="#393939"
             inner="#202020ff"
             inner_sel="#58a2ccff"
             item="#58a2ccff"
@@ -303,7 +303,7 @@
         </wcol_progress>
         <wcol_list_item>
           <ThemeWidgetColors
-            outline="#202020"
+            outline="#333333"
             inner="#29292900"
             inner_sel="#58a2ccff"
             item="#bfbfbfff"
@@ -316,6 +316,21 @@
             >
           </ThemeWidgetColors>
         </wcol_list_item>
+        <wcol_view_item>
+          <ThemeWidgetColors
+            outline="#2d2d2d"
+            inner="#303030ff"
+            inner_sel="#58a2ccff"
+            item="#58a2ccff"
+            text="#bfbfbf"
+            text_sel="#ffffff"
+            show_shaded="FALSE"
+            shadetop="0"
+            shadedown="0"
+            roundness="0.5"
+            >
+          </ThemeWidgetColors>
+        </wcol_view_item>
         <wcol_state>
           <ThemeWidgetStateColors
             inner_anim="#4ecd81"
@@ -334,7 +349,7 @@
         </wcol_state>
         <wcol_tab>
           <ThemeWidgetColors
-            outline="#292929"
+            outline="#333333"
             inner="#202020ff"
             inner_sel="#58a2ccff"
             item="#292929ff"
@@ -851,11 +866,20 @@
             </panelcolors>
           </ThemeSpaceGeneric>
         </space>
+        <space_list>
+          <ThemeSpaceListGeneric
+            list="#181818"
+            list_title="#ffffff"
+            list_text="#ffffff"
+            list_text_hi="#ffffff"
+            >
+          </ThemeSpaceListGeneric>
+        </space_list>
       </ThemeSequenceEditor>
     </sequence_editor>
     <properties>
       <ThemeProperties
-        match="#58a2cc"
+        match="#427562"
         active_modifier="#58a2ccff"
         >
         <space>
@@ -942,7 +966,7 @@
         grid="#2a2a2a"
         node_selected="#8b80ff"
         node_active="#ffffff"
-        wire="#202020"
+        wire="#202020ff"
         wire_inner="#595959"
         wire_select="#ffffffbf"
         selected_text="#7f7070"
@@ -951,11 +975,11 @@
         color_node="#d5bf5b"
         group_node="#202020"
         group_socket_node="#1a1a1a"
-        frame_node="#1a1a1aff"
+        frame_node="#131313ff"
         matte_node="#975b5b"
         distor_node="#749797"
         noodle_curving="0"
-        grid_levels="7"
+        grid_levels="3"
         dash_alpha="0.5"
         input_node="#e03399"
         output_node="#690d34"
@@ -1012,7 +1036,7 @@
     </node_editor>
     <outliner>
       <ThemeOutliner
-        match="#417970"
+        match="#427562"
         selected_highlight="#2e2e2e"
         active="#404040"
         selected_object="#9b95ff"
