@@ -810,7 +810,7 @@
     </image_editor>
     <sequence_editor>
       <ThemeSequenceEditor
-        grid="#262626"
+        grid="#333333"
         window_sliders="#a0a0a0"
         movie_strip="#4d6890"
         movieclip_strip="#8f4c4c"
@@ -829,7 +829,7 @@
         time_marker_line="#ffffff59"
         time_marker_line_selected="#ffffffff"
         keyframe="#ff8500"
-        draw_action="#50c8ff"
+        draw_action="#6ecdff"
         preview_back="#000000"
         metadatabg="#000000"
         metadatatext="#ffffff"
@@ -838,29 +838,29 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#252525"
+            back="#202020"
             title="#bfbfbf"
             text="#bfbfbf"
             text_hi="#bfbfbf"
             header="#292929ff"
             header_text="#bfbfbf"
             header_text_hi="#bfbfbf"
-            button="#2a2a2aff"
+            button="#202020ff"
             button_title="#bfbfbf"
             button_text="#bfbfbf"
             button_text_hi="#202020"
             navigation_bar="#00000000"
             execution_buts="#00000000"
             tab_active="#58a2cc"
-            tab_inactive="#2b2b2b"
-            tab_back="#232323ff"
-            tab_outline="#232323"
+            tab_inactive="#202020"
+            tab_back="#2a2a2aff"
+            tab_outline="#202020"
             >
             <panelcolors>
               <ThemePanelColors
                 header="#292929ff"
                 back="#292929ff"
-                sub_back="#252525ff"
+                sub_back="#232323ff"
                 >
               </ThemePanelColors>
             </panelcolors>
@@ -868,10 +868,10 @@
         </space>
         <space_list>
           <ThemeSpaceListGeneric
-            list="#181818"
-            list_title="#ffffff"
-            list_text="#ffffff"
-            list_text_hi="#ffffff"
+            list="#292929"
+            list_title="#bfbfbf"
+            list_text="#bfbfbf"
+            list_text_hi="#bfbfbf"
             >
           </ThemeSpaceListGeneric>
         </space_list>
