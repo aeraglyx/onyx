@@ -28,7 +28,7 @@
         icon_object_data="#5ec8c8ff"
         icon_modifier="#bfbfbfff"
         icon_shading="#c16192ff"
-        icon_folder="#131313ff"
+        icon_folder="#72bbe2ff"
         icon_border_intensity="0"
         >
         <wcol_regular>
@@ -369,7 +369,8 @@
         grid="#202020ff"
         clipping_border_3d="#313131ff"
         wire="#808080"
-        wire_edit="#808080"
+        wire_edit="#666666"
+        edge_width="1"
         gp_vertex="#202020"
         gp_vertex_select="#ff8500"
         gp_vertex_size="4"
@@ -379,12 +380,12 @@
         text_keyframe="#dddb85"
         camera="#808080"
         empty="#808080"
-        light="#80808040"
+        light="#80808033"
         speaker="#808080"
-        vertex="#808080"
+        vertex="#bfbfbf"
         vertex_select="#80deff"
         vertex_active="#000000"
-        vertex_size="3"
+        vertex_size="2"
         vertex_bevel="#00a5ff"
         vertex_unreferenced="#000000"
         edge_select="#43c7ff"
@@ -399,6 +400,7 @@
         face_dot="#ff8a00"
         facedot_size="3"
         freestyle_face_mark="#7fff7f4d"
+        face_retopology="#50c8ff0f"
         face_back="#e60a41bf"
         face_front="#1e89eb00"
         nurb_uline="#909000"
@@ -425,17 +427,18 @@
         split_normal="#dd23dd"
         bone_pose="#50c8ff"
         bone_pose_active="#8cffff"
-        bone_solid="#b2b2b2"
+        bone_solid="#bfbfbf"
         bone_locked_weight="#ff000080"
-        bundle_solid="#c8c8c8"
-        camera_path="#000000"
+        bundle_solid="#bfbfbf"
+        camera_path="#808080"
+        camera_passepartout="#131313"
         skin_root="#b44d4d"
         view_overlay="#bfbfbf"
         transform="#ffffff"
         frame_current="#60c040"
         paint_curve_handle="#7fff7f7f"
         paint_curve_pivot="#ff7f7f7f"
-        outline_width="1"
+        outline_width="2"
         object_origin_size="8"
         >
         <space>
@@ -491,10 +494,10 @@
         channel_group="#386680"
         active_channels_group="#58a2cc"
         preview_range="#a14d0066"
-        vertex="#000000"
+        vertex="#808080"
         vertex_select="#ff8500"
         vertex_active="#ffffff"
-        vertex_size="8"
+        vertex_size="7"
         vertex_bevel="#000000"
         vertex_unreferenced="#000000"
         handle_free="#000000"
@@ -508,7 +511,7 @@
         handle_auto_clamped="#994030"
         handle_sel_auto_clamped="#f0af90"
         lastsel_point="#ffffff"
-        handle_vertex="#000000"
+        handle_vertex="#808080"
         handle_vertex_select="#ff8500"
         handle_vertex_size="5"
         >
@@ -690,6 +693,7 @@
         summary="#4d4d4d80"
         preview_range="#a14d0066"
         interpolation_line="#94e575cc"
+        simulated_frames="#721e65ff"
         >
         <space>
           <ThemeSpaceGeneric
@@ -746,10 +750,12 @@
         face_dot="#ffffff"
         facedot_size="4"
         freestyle_face_mark="#7fff7f33"
+        face_retopology="#00000000"
         face_back="#00000000"
         face_front="#00000000"
         editmesh_active="#ffffff80"
         wire_edit="#808080"
+        edge_width="1"
         edge_select="#7ecfff"
         scope_back="#808080ff"
         preview_stitch_face="#7f7f0033"
@@ -980,7 +986,7 @@
         distor_node="#749797"
         noodle_curving="0"
         grid_levels="3"
-        dash_alpha="0.5"
+        dash_alpha="0.25"
         input_node="#e03399"
         output_node="#690d34"
         filter_node="#584d80"
@@ -992,6 +998,7 @@
         layout_node="#6c696f"
         geometry_node="#00d7a4"
         attribute_node="#23376c"
+        simulation_zone="#66416233"
         >
         <space>
           <ThemeSpaceGeneric
@@ -1609,7 +1616,7 @@
         shadow="3"
         shadow_offset_x="0"
         shadow_offset_y="-1"
-        shadow_alpha="0.5"
+        shadow_alpha="0"
         shadow_value="0"
         >
       </ThemeFontStyle>
@@ -1620,7 +1627,7 @@
         shadow="3"
         shadow_offset_x="0"
         shadow_offset_y="-1"
-        shadow_alpha="1"
+        shadow_alpha="0"
         shadow_value="0"
         >
       </ThemeFontStyle>
