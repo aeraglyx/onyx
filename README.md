@@ -2,10 +2,10 @@
 
 Custom dark Blender theme with low contrast and blue accents. Works best with the `basic_dark.exr` MatCap.
 
-Last tested - 3.6.0
+Last tested - 4.0.0
 
 (screenshot outdated)
 ![ScreenShot](/img/onyx_theme_example_211114.png)
 
 ## Colour Pallete
-`#202020`, `#292929`, `#58a2cc`, `#bfbfbf`
+`#202020`, `#292929`, `#58a2cc`, `#cccccc`
