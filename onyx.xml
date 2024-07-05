@@ -13,13 +13,13 @@
         transparent_checker_primary="#202020"
         transparent_checker_secondary="#292929"
         transparent_checker_size="8"
-        axis_x="#ff4c83"
-        axis_y="#38c07f"
+        axis_x="#eb4c85"
+        axis_y="#3bc99f"
         axis_z="#63cdfb"
         gizmo_hi="#ffffff"
-        gizmo_primary="#c980ff"
-        gizmo_secondary="#63ffff"
-        gizmo_view_align="#ffffff"
+        gizmo_primary="#95e9d1"
+        gizmo_secondary="#e098ff"
+        gizmo_view_align="#e6e6e6"
         gizmo_a="#4da84d"
         gizmo_b="#a33535"
         icon_scene="#ccccccff"
@@ -28,7 +28,7 @@
         icon_object_data="#5ec8c8ff"
         icon_modifier="#ccccccff"
         icon_shading="#c16192ff"
-        icon_folder="#80d1ffff"
+        icon_folder="#ccccccff"
         icon_border_intensity="0"
         >
         <wcol_regular>
@@ -360,8 +360,8 @@
         gp_vertex_select="#80d1ff"
         gp_vertex_size="2"
         text_grease_pencil="#ddc285"
-        object_selected="#7269d1"
-        object_active="#80d1ff"
+        object_selected="#80d1ff"
+        object_active="#ffffff"
         text_keyframe="#dddb85"
         camera="#808080"
         empty="#808080"
@@ -551,8 +551,8 @@
     </graph_editor>
     <file_browser>
       <ThemeFileBrowser
-        selected_file="#58a2cc"
-        row_alternate="#ffffff05"
+        selected_file="#404040"
+        row_alternate="#ffffff03"
         >
         <space>
           <ThemeSpaceGeneric
@@ -898,7 +898,7 @@
     </sequence_editor>
     <properties>
       <ThemeProperties
-        match="#427562"
+        match="#32695e"
         active_modifier="#80d1ffff"
         >
         <space>
@@ -937,16 +937,16 @@
       <ThemeTextEditor
         line_numbers="#404040"
         line_numbers_background="#202020"
-        selected_text="#333333"
+        selected_text="#2e2e2e"
         cursor="#ffffff"
         syntax_builtin="#80d1ff"
         syntax_symbols="#80d1ff"
         syntax_special="#80d1ff"
-        syntax_preprocessor="#61ffcd"
+        syntax_preprocessor="#e098ff"
         syntax_reserved="#c4753b"
-        syntax_comment="#606060"
-        syntax_string="#d38fff"
-        syntax_numbers="#d38fff"
+        syntax_comment="#666666"
+        syntax_string="#95e9d1"
+        syntax_numbers="#ff6ca1"
         >
         <space>
           <ThemeSpaceGeneric
@@ -983,11 +983,11 @@
     <node_editor>
       <ThemeNodeEditor
         grid="#2a2a2a"
-        node_selected="#8b80ff"
+        node_selected="#80d1ff"
         node_active="#ffffff"
         wire="#202020ff"
         wire_inner="#595959"
-        wire_select="#ffffffbf"
+        wire_select="#ffffff99"
         selected_text="#7f7070"
         node_backdrop="#292929ff"
         converter_node="#529ede"
@@ -1000,11 +1000,11 @@
         noodle_curving="0"
         grid_levels="3"
         dash_alpha="0.25"
-        input_node="#e03399"
-        output_node="#690d34"
+        input_node="#e23aa8"
+        output_node="#bd1e56"
         filter_node="#584d80"
         vector_node="#585feb"
-        texture_node="#ce7348"
+        texture_node="#d18167"
         shader_node="#5c9d78"
         script_node="#084d4d"
         pattern_node="#6c696f"
@@ -1012,7 +1012,7 @@
         geometry_node="#00d7a4"
         attribute_node="#23376c"
         simulation_zone="#5f416633"
-        repeat_zone="#76492f33"
+        repeat_zone="#76514833"
         >
         <space>
           <ThemeSpaceGeneric
@@ -1057,10 +1057,10 @@
     </node_editor>
     <outliner>
       <ThemeOutliner
-        match="#427562"
+        match="#32695e"
         selected_highlight="#2e2e2e"
         active="#404040"
-        selected_object="#a89bff"
+        selected_object="#a6dfff"
         active_object="#ffffff"
         edited_object="#447283ff"
         row_alternate="#ffffff03"
@@ -1100,19 +1100,19 @@
     <info>
       <ThemeInfo
         info_selected="#58a2cc"
-        info_selected_text="#202020"
-        info_error="#ff546eff"
-        info_error_text="#202020"
-        info_warning="#df9c53ff"
-        info_warning_text="#202020"
-        info_info="#3f63a0ff"
-        info_info_text="#202020"
+        info_selected_text="#000000"
+        info_error="#eb4c85ff"
+        info_error_text="#000000"
+        info_warning="#df7e53ff"
+        info_warning_text="#000000"
+        info_info="#58a2ccff"
+        info_info_text="#000000"
         info_debug="#8052adff"
-        info_debug_text="#202020"
-        info_property="#329364ff"
-        info_property_text="#202020"
-        info_operator="#329364ff"
-        info_operator_text="#202020"
+        info_debug_text="#000000"
+        info_property="#4faf9dff"
+        info_property_text="#000000"
+        info_operator="#4faf9dff"
+        info_operator_text="#000000"
         >
         <space>
           <ThemeSpaceGeneric
@@ -1184,10 +1184,10 @@
       <ThemeConsole
         line_output="#80d1ff"
         line_input="#cccccc"
-        line_info="#808080"
-        line_error="#ff4286"
+        line_info="#666666"
+        line_error="#ff6ca1"
         cursor="#ffffff"
-        select="#ffffff1a"
+        select="#2e2e2eff"
         >
         <space>
           <ThemeSpaceGeneric
