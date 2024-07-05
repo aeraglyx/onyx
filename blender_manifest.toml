@@ -1,0 +1,16 @@
+schema_version = "1.0.0"
+
+id = "onyx"
+version = "1.0.0"
+name = "Onyx"
+tagline = "A minimalistic dark theme"
+maintainer = "Vladislav Macíček"
+type = "theme"
+tags = ["Dark"]
+website = "https://github.com/aeraglyx/onyx"
+
+blender_version_min = "4.2.0"
+
+license = [
+  "SPDX:GPL-2.0-or-later",
+]
