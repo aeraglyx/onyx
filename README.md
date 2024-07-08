@@ -2,7 +2,9 @@
 
 A minimalistic dark theme for Blender.
 
-![ScreenShot](/img/onyx_theme_example.png)
+In the future, you should be able to get it from the [Extensions Platform](https://extensions.blender.org/themes/onyx/) or straight from Blender (Preferences > Get Extensions > Themes).
+
+![Onyx Featured Image](/img/onyx_featured_image.png)
 
 ## Main Features
 
@@ -10,7 +12,6 @@ A minimalistic dark theme for Blender.
 - Neutral greys (good for color perception).
 - Limited color palette for less clutter.
 - Striking light blue accents where it counts.
-- Mostly unified between editors.
 
 ## Known Issues
 
@@ -20,5 +21,3 @@ A minimalistic dark theme for Blender.
 ---
 
 Please report any issues you find and enjoy Onyx!
-
-Last tested - 4.2.0
