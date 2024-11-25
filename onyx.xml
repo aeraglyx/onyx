@@ -443,7 +443,7 @@
             execution_buts="#00000000"
             tab_active="#58a2cc"
             tab_inactive="#202020"
-            tab_back="#2a2a2aff"
+            tab_back="#292929ff"
             tab_outline="#202020ff"
             >
             <gradients>
@@ -466,8 +466,8 @@
         </space>
         <asset_shelf>
           <ThemeAssetShelf
-            header_back="#1d1d1dff"
-            back="#303030ff"
+            header_back="#29292900"
+            back="#292929ff"
             >
           </ThemeAssetShelf>
         </asset_shelf>
@@ -510,7 +510,7 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#2a2a2a"
+            back="#292929"
             title="#cccccc"
             text="#cccccc"
             text_hi="#cccccc"
@@ -588,7 +588,7 @@
     </file_browser>
     <nla_editor>
       <ThemeNLAEditor
-        grid="#2a2a2a"
+        grid="#292929"
         view_sliders="#999999"
         dopesheet_channel="#26706b"
         dopesheet_subchannel="#7d98b3"
@@ -615,7 +615,7 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#2a2a2a"
+            back="#292929"
             title="#cccccc"
             text="#cccccc"
             text_hi="#cccccc"
@@ -629,7 +629,7 @@
             navigation_bar="#00000000"
             execution_buts="#00000000"
             tab_active="#58a2cc"
-            tab_inactive="#2b2b2b"
+            tab_inactive="#292929"
             tab_back="#232323ff"
             tab_outline="#232323ff"
             >
@@ -645,7 +645,7 @@
         </space>
         <space_list>
           <ThemeSpaceListGeneric
-            list="#282828"
+            list="#292929"
             list_title="#ffffff"
             list_text="#cccccc"
             list_text_hi="#ffffff"
@@ -693,7 +693,7 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#2a2a2a"
+            back="#292929"
             title="#cccccc"
             text="#a6a6a6"
             text_hi="#cccccc"
@@ -723,7 +723,7 @@
         </space>
         <space_list>
           <ThemeSpaceListGeneric
-            list="#282828"
+            list="#292929"
             list_title="#ffffff"
             list_text="#cccccc"
             list_text_hi="#ffffff"
@@ -810,8 +810,8 @@
         </space>
         <asset_shelf>
           <ThemeAssetShelf
-            header_back="#1d1d1dff"
-            back="#303030ff"
+            header_back="#29292900"
+            back="#292929ff"
             >
           </ThemeAssetShelf>
         </asset_shelf>
@@ -872,7 +872,7 @@
             execution_buts="#00000000"
             tab_active="#58a2cc"
             tab_inactive="#202020"
-            tab_back="#2a2a2aff"
+            tab_back="#292929ff"
             tab_outline="#202020ff"
             >
             <panelcolors>
@@ -914,7 +914,7 @@
             button_title="#cccccc"
             button_text="#cccccc"
             button_text_hi="#202020"
-            navigation_bar="#2a2a2aff"
+            navigation_bar="#292929ff"
             execution_buts="#00000000"
             tab_active="#58a2cc"
             tab_inactive="#202020"
@@ -982,7 +982,7 @@
     </text_editor>
     <node_editor>
       <ThemeNodeEditor
-        grid="#2a2a2a"
+        grid="#292929"
         node_selected="#80d1ff"
         node_active="#ffffff"
         wire="#202020ff"
@@ -1046,7 +1046,7 @@
         </space>
         <space_list>
           <ThemeSpaceListGeneric
-            list="#282828"
+            list="#292929"
             list_title="#ffffff"
             list_text="#cccccc"
             list_text_hi="#ffffff"
@@ -1081,7 +1081,7 @@
             navigation_bar="#00000000"
             execution_buts="#00000000"
             tab_active="#58a2cc"
-            tab_inactive="#2b2b2b"
+            tab_inactive="#292929"
             tab_back="#232323ff"
             tab_outline="#232323ff"
             >
@@ -1130,7 +1130,7 @@
             navigation_bar="#00000000"
             execution_buts="#00000000"
             tab_active="#58a2cc"
-            tab_inactive="#2b2b2b"
+            tab_inactive="#292929"
             tab_back="#232323ff"
             tab_outline="#232323ff"
             >
@@ -1164,7 +1164,7 @@
             navigation_bar="#292929ff"
             execution_buts="#292929ff"
             tab_active="#58a2cc"
-            tab_inactive="#2b2b2b"
+            tab_inactive="#292929"
             tab_back="#232323ff"
             tab_outline="#232323ff"
             >
@@ -1205,7 +1205,7 @@
             navigation_bar="#00000000"
             execution_buts="#00000000"
             tab_active="#58a2cc"
-            tab_inactive="#2b2b2b"
+            tab_inactive="#292929"
             tab_back="#232323ff"
             tab_outline="#232323ff"
             >
@@ -1286,7 +1286,7 @@
         </space>
         <space_list>
           <ThemeSpaceListGeneric
-            list="#282828"
+            list="#292929"
             list_title="#000000"
             list_text="#000000"
             list_text_hi="#ffffff"
@@ -1303,7 +1303,7 @@
             title="#cccccc"
             text="#cccccc"
             text_hi="#cccccc"
-            header="#242424ff"
+            header="#292929ff"
             header_text="#cccccc"
             header_text_hi="#cccccc"
             button="#424242ff"
@@ -1313,7 +1313,7 @@
             navigation_bar="#00000000"
             execution_buts="#00000000"
             tab_active="#58a2cc"
-            tab_inactive="#2b2b2b"
+            tab_inactive="#292929"
             tab_back="#232323ff"
             tab_outline="#232323ff"
             >
@@ -1337,7 +1337,7 @@
             title="#cccccc"
             text="#cccccc"
             text_hi="#cccccc"
-            header="#242424ff"
+            header="#292929ff"
             header_text="#cccccc"
             header_text_hi="#cccccc"
             button="#353535ff"
@@ -1347,7 +1347,7 @@
             navigation_bar="#00000000"
             execution_buts="#00000000"
             tab_active="#58a2cc"
-            tab_inactive="#2b2b2b"
+            tab_inactive="#292929"
             tab_back="#232323ff"
             tab_outline="#232323ff"
             >
