@@ -29,6 +29,7 @@
         icon_modifier="#ccccccff"
         icon_shading="#c16192ff"
         icon_folder="#ccccccff"
+        icon_autokey="#FF5290FF"
         icon_border_intensity="0"
         >
         <wcol_regular>
