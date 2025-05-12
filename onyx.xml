@@ -7,8 +7,10 @@
         icon_alpha="1"
         icon_saturation="0.5"
         widget_emboss="#00000000"
-        editor_outline="#1a1a1a"
-        widget_text_cursor="#58a2cc"
+        editor_border="#131313"
+        editor_outline="#333333ff"
+        editor_outline_active="#595959ff"
+        widget_text_cursor="#e6e6e6"
         panel_roundness="0.75"
         transparent_checker_primary="#202020"
         transparent_checker_secondary="#292929"
@@ -353,24 +355,24 @@
     <view_3d>
       <ThemeView3D
         grid="#202020ff"
-        clipping_border_3d="#313131ff"
-        wire="#808080"
-        wire_edit="#595959"
+        clipping_border_3d="#1a1a1aff"
+        wire="#606060"
+        wire_edit="#606060"
         edge_width="1"
-        gp_vertex="#808080"
+        gp_vertex="#606060"
         gp_vertex_select="#80d1ff"
-        gp_vertex_size="2"
+        gp_vertex_size="3"
         text_grease_pencil="#ddc285"
         object_selected="#80d1ff"
         object_active="#ffffff"
         text_keyframe="#dddb85"
-        camera="#808080"
-        empty="#808080"
-        light="#80808033"
-        speaker="#808080"
-        vertex="#cccccc"
+        camera="#606060"
+        empty="#606060"
+        light="#60606033"
+        speaker="#606060"
+        vertex="#606060"
         vertex_select="#80deff"
-        vertex_size="2"
+        vertex_size="3"
         vertex_bevel="#00a5ff"
         vertex_unreferenced="#000000"
         edge_select="#80d1ff"
@@ -379,11 +381,11 @@
         edge_sharp="#54f3f3"
         edge_crease="#d818c4"
         edge_bevel="#00b7ff"
-        edge_facesel="#595959"
+        edge_facesel="#606060"
         freestyle_edge_mark="#7fff7f"
         face="#20202000"
-        face_select="#80d1ff1a"
-        face_mode_select="#80d1ff1a"
+        face_select="#6192b268"
+        face_mode_select="#6192b268"
         face_dot="#80d1ff"
         facedot_size="3"
         freestyle_face_mark="#7fff7f4d"
@@ -394,7 +396,7 @@
         nurb_vline="#803060"
         nurb_sel_uline="#f0ff40"
         nurb_sel_vline="#f090a0"
-        act_spline="#db2512"
+        act_spline="#df4b79"
         handle_free="#000000"
         handle_auto="#909000"
         handle_vect="#409030"
@@ -412,17 +414,19 @@
         normal="#3ff3f3"
         vertex_normal="#3cadff"
         split_normal="#d477ff"
-        bone_pose="#50c8ff"
-        bone_pose_active="#8cffff"
+        bone_pose="#5ec8c8"
+        bone_pose_active="#bfffff"
         bone_solid="#cccccc"
         bone_locked_weight="#ff000080"
+        frame_current="#60c040"
+        before_current_frame="#f22e23"
+        after_current_frame="#78f244"
         bundle_solid="#cccccc"
-        camera_path="#808080"
+        camera_path="#606060"
         camera_passepartout="#131313"
         skin_root="#b44d4d"
-        view_overlay="#808080"
-        transform="#ffffff"
-        frame_current="#60c040"
+        view_overlay="#404040"
+        transform="#e6e6e6"
         paint_curve_handle="#7fff7f7f"
         paint_curve_pivot="#ff7f7f7f"
         outline_width="2"
@@ -939,7 +943,7 @@
         line_numbers="#404040"
         line_numbers_background="#202020"
         selected_text="#2e2e2e"
-        cursor="#ffffff"
+        cursor="#e6e6e6"
         syntax_builtin="#80d1ff"
         syntax_symbols="#80d1ff"
         syntax_special="#80d1ff"
@@ -1014,6 +1018,7 @@
         attribute_node="#23376c"
         simulation_zone="#5f416633"
         repeat_zone="#76514833"
+        foreach_geometry_element_zone="#33527f33"
         >
         <space>
           <ThemeSpaceGeneric
@@ -1187,7 +1192,7 @@
         line_input="#cccccc"
         line_info="#666666"
         line_error="#ff6ca1"
-        cursor="#ffffff"
+        cursor="#e6e6e6"
         select="#2e2e2eff"
         >
         <space>
@@ -1411,72 +1416,72 @@
     </spreadsheet>
     <bone_color_sets>
       <ThemeBoneColorSet
-        normal="#9a0000"
-        select="#bd1111"
-        active="#f70a0a"
+        normal="#dc4773"
+        select="#dc4773"
+        active="#ff7399"
         show_colored_constraints="FALSE"
         >
       </ThemeBoneColorSet>
       <ThemeBoneColorSet
-        normal="#f74018"
-        select="#f66913"
-        active="#fa9900"
+        normal="#f18d55"
+        select="#f18d55"
+        active="#ffaf83"
         show_colored_constraints="FALSE"
         >
       </ThemeBoneColorSet>
       <ThemeBoneColorSet
-        normal="#1e9109"
-        select="#59b70b"
-        active="#83ef1d"
+        normal="#7bcc7b"
+        select="#7bcc7b"
+        active="#93f593"
         show_colored_constraints="FALSE"
         >
       </ThemeBoneColorSet>
       <ThemeBoneColorSet
-        normal="#0a3694"
-        select="#3667df"
-        active="#5ec1ef"
+        normal="#5db6ea"
+        select="#5db6ea"
+        active="#92d7ff"
         show_colored_constraints="FALSE"
         >
       </ThemeBoneColorSet>
       <ThemeBoneColorSet
-        normal="#a9294e"
-        select="#c1416a"
-        active="#f05d91"
+        normal="#da7ad6"
+        select="#da7ad6"
+        active="#ff98fa"
         show_colored_constraints="FALSE"
         >
       </ThemeBoneColorSet>
       <ThemeBoneColorSet
-        normal="#430c78"
-        select="#543aa3"
-        active="#8764d5"
+        normal="#7368ec"
+        select="#7368ec"
+        active="#9a92ff"
         show_colored_constraints="FALSE"
         >
       </ThemeBoneColorSet>
       <ThemeBoneColorSet
-        normal="#24785a"
+        normal="#3c9579"
         select="#3c9579"
         active="#6fb6ab"
         show_colored_constraints="FALSE"
         >
       </ThemeBoneColorSet>
       <ThemeBoneColorSet
-        normal="#4b707c"
+        normal="#6a8691"
         select="#6a8691"
-        active="#9bc2cd"
+        active="#93b8c3"
         show_colored_constraints="FALSE"
         >
       </ThemeBoneColorSet>
       <ThemeBoneColorSet
-        normal="#f4c90c"
-        select="#eec236"
-        active="#f3ff00"
+        normal="#efdc64"
+        select="#efdc64"
+        active="#fff198"
         show_colored_constraints="FALSE"
         >
       </ThemeBoneColorSet>
       <ThemeBoneColorSet
-        normal="#1e2024"
-        select="#484c56"
-        active="#ffffff"
+        normal="#41444d"
+        select="#41444d"
+        active="#525661"
         show_colored_constraints="FALSE"
         >
       </ThemeBoneColorSet>
@@ -1637,18 +1642,6 @@
         >
       </ThemeFontStyle>
     </panel_title>
-    <widget_label>
-      <ThemeFontStyle
-        points="11"
-        character_weight="400"
-        shadow="3"
-        shadow_offset_x="0"
-        shadow_offset_y="-1"
-        shadow_alpha="0"
-        shadow_value="0"
-        >
-      </ThemeFontStyle>
-    </widget_label>
     <widget>
       <ThemeFontStyle
         points="11"
@@ -1661,5 +1654,17 @@
         >
       </ThemeFontStyle>
     </widget>
+    <tooltip>
+      <ThemeFontStyle
+        points="11"
+        character_weight="400"
+        shadow="1"
+        shadow_offset_x="0"
+        shadow_offset_y="-1"
+        shadow_alpha="0.5"
+        shadow_value="0"
+        >
+      </ThemeFontStyle>
+    </tooltip>
   </ThemeStyle>
 </bpy>
