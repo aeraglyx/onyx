@@ -1,8 +1,8 @@
 # Onyx
 
-A minimalistic dark theme for Blender.
+A minimalistic dark theme for [Blender](https://www.blender.org/).
 
-In the future, you should be able to get it from the [Extensions Platform](https://extensions.blender.org/themes/onyx/) or straight from Blender (Preferences > Get Extensions > Themes).
+You can get it from the [Extensions Platform](https://extensions.blender.org/themes/onyx/) or directly from Blender (Preferences > Get Extensions > Themes).
 
 ![Onyx Featured Image](/img/onyx_featured_image.png)
 
@@ -20,4 +20,4 @@ In the future, you should be able to get it from the [Extensions Platform](https
 
 ---
 
-Please report any issues you find and enjoy Onyx!
+Please report any issues and enjoy Onyx!
