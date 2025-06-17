@@ -31,7 +31,7 @@
         icon_modifier="#ccccccff"
         icon_shading="#c16192ff"
         icon_folder="#ccccccff"
-        icon_autokey="#FF5290FF"
+        icon_autokey="#ff5290ff"
         icon_border_intensity="0"
         >
         <wcol_regular>
@@ -859,6 +859,8 @@
         metadatatext="#ffffff"
         preview_range="#48576a99"
         row_alternate="#ffffff03"
+        text_strip_cursor="#80d1ffff"
+        selected_text="#cccccc20"
         >
         <space>
           <ThemeSpaceGeneric
