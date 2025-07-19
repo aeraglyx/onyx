@@ -942,18 +942,18 @@
     </properties>
     <text_editor>
       <ThemeTextEditor
-        line_numbers="#404040"
+        line_numbers="#393939"
         line_numbers_background="#202020"
         selected_text="#2e2e2e"
         cursor="#e6e6e6"
-        syntax_builtin="#80d1ff"
-        syntax_symbols="#80d1ff"
-        syntax_special="#80d1ff"
-        syntax_preprocessor="#e098ff"
-        syntax_reserved="#c4753b"
-        syntax_comment="#666666"
-        syntax_string="#95e9d1"
-        syntax_numbers="#ff6ca1"
+        syntax_builtin="#909090"
+        syntax_symbols="#909090"
+        syntax_special="#bab0e4"
+        syntax_preprocessor="#bab0e4"
+        syntax_reserved="#deb39c"
+        syntax_comment="#525252"
+        syntax_string="#96c6dd"
+        syntax_numbers="#96c6dd"
         >
         <space>
           <ThemeSpaceGeneric
