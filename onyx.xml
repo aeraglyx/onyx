@@ -1108,19 +1108,16 @@
     <info>
       <ThemeInfo
         info_selected="#96c6dd"
-        info_selected_text="#000000"
-        info_error="#eb4c85ff"
-        info_error_text="#000000"
-        info_warning="#df7e53ff"
-        info_warning_text="#000000"
-        info_info="#96c6ddff"
-        info_info_text="#000000"
-        info_debug="#8052adff"
-        info_debug_text="#000000"
-        info_property="#4faf9dff"
-        info_property_text="#000000"
-        info_operator="#4faf9dff"
-        info_operator_text="#000000"
+        info_selected_text="#202020"
+        info_error_text="#202020"
+        info_warning_text="#202020"
+        info_info_text="#202020"
+        info_debug="#bcb8e2ff"
+        info_debug_text="#202020"
+        info_property="#393939ff"
+        info_property_text="#cccccc"
+        info_operator="#393939ff"
+        info_operator_text="#cccccc"
         >
         <space>
           <ThemeSpaceGeneric
