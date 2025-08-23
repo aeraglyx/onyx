@@ -1195,7 +1195,7 @@
         line_output="#96c6dd"
         line_input="#cccccc"
         line_info="#666666"
-        line_error="#ff6ca1"
+        line_error="#fd7eaa"
         cursor="#e6e6e6"
         select="#2e2e2eff"
         >
