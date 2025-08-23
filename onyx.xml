@@ -9,7 +9,7 @@
         widget_emboss="#00000000"
         editor_border="#131313"
         editor_outline="#333333ff"
-        editor_outline_active="#595959ff"
+        editor_outline_active="#525252ff"
         widget_text_cursor="#e6e6e6"
         panel_roundness="0.75"
         transparent_checker_primary="#202020"
