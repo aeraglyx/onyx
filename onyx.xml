@@ -221,7 +221,7 @@
             inner_sel="#292929ff"
             item="#808080ff"
             text="#cccccc"
-            text_sel="#ffffff"
+            text_sel="#cccccc"
             show_shaded="FALSE"
             shadetop="25"
             shadedown="-20"
