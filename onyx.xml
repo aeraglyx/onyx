@@ -32,7 +32,7 @@
         icon_shading="#c16192ff"
         icon_folder="#ccccccff"
         icon_autokey="#ff5290ff"
-        icon_border_intensity="0"
+        icon_border_intensity="0.6"
         >
         <wcol_regular>
           <ThemeWidgetColors
