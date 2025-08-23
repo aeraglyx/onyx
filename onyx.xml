@@ -1233,25 +1233,26 @@
     </console>
     <clip_editor>
       <ThemeClipEditor
-        grid="#1a1a1aff"
+        grid="#202020ff"
         marker_outline="#000000"
-        marker="#96c6dd"
+        marker="#cccccc"
         active_marker="#ffffff"
         selected_marker="#96c6dd"
-        disabled_marker="#7f0000"
-        locked_marker="#808080"
-        path_before="#ff4c83"
+        disabled_marker="#525252"
+        locked_marker="#bcb8e2"
+        path_before="#fd7eaa"
         path_after="#96c6dd"
-        path_keyframe_before="#ffc4c4"
-        path_keyframe_after="#c4c4ff"
+        path_keyframe_before="#fd7eaa"
+        path_keyframe_after="#96c6dd"
         frame_current="#96c6dd"
         time_scrub_background="#292929ff"
-        time_marker_line="#00000060"
-        time_marker_line_selected="#ffffff60"
+        time_marker_line="#666666ff"
+        time_marker_line_selected="#999999ff"
         strips="#404040"
-        strips_selected="#5396bc"
+        strips_selected="#96c6dd"
         metadatabg="#000000"
         metadatatext="#ffffff"
+        preview_range="#48576a99"
         handle_free="#000000"
         handle_auto="#909000"
         handle_align="#803060"
@@ -1297,8 +1298,8 @@
         <space_list>
           <ThemeSpaceListGeneric
             list="#292929"
-            list_title="#000000"
-            list_text="#000000"
+            list_title="#ffffff"
+            list_text="#cccccc"
             list_text_hi="#ffffff"
             >
           </ThemeSpaceListGeneric>
