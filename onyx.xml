@@ -1025,6 +1025,7 @@
         simulation_zone="#5f416633"
         repeat_zone="#76514833"
         foreach_geometry_element_zone="#33527f33"
+        closure_zone="#527f3333"
         >
         <space>
           <ThemeSpaceGeneric
