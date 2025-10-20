@@ -276,8 +276,8 @@
         </wcol_menu_item>
         <wcol_scroll>
           <ThemeWidgetColors
-            outline="#393939ff"
-            inner="#40404040"
+            outline="#333333ff"
+            inner="#202020ff"
             inner_sel="#ccccccff"
             item="#393939ff"
             text="#cccccc"
@@ -285,7 +285,7 @@
             show_shaded="FALSE"
             shadetop="5"
             shadedown="-5"
-            roundness="0.5"
+            roundness="1"
             >
           </ThemeWidgetColors>
         </wcol_scroll>
