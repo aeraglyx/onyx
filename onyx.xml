@@ -36,10 +36,10 @@
         >
         <wcol_regular>
           <ThemeWidgetColors
-            outline="#393939ff"
+            outline="#383838ff"
             inner="#202020ff"
             inner_sel="#202020ff"
-            item="#393939ff"
+            item="#383838ff"
             text="#cccccc"
             text_sel="#96c6dd"
             show_shaded="FALSE"
@@ -51,8 +51,8 @@
         </wcol_regular>
         <wcol_tool>
           <ThemeWidgetColors
-            outline="#393939ff"
-            inner="#393939ff"
+            outline="#383838ff"
+            inner="#383838ff"
             inner_sel="#96c6ddff"
             item="#ffffffff"
             text="#cccccc"
@@ -66,7 +66,7 @@
         </wcol_tool>
         <wcol_toolbar_item>
           <ThemeWidgetColors
-            outline="#393939ff"
+            outline="#383838ff"
             inner="#292929ff"
             inner_sel="#96c6ddff"
             item="#ccccccff"
@@ -81,10 +81,10 @@
         </wcol_toolbar_item>
         <wcol_radio>
           <ThemeWidgetColors
-            outline="#393939ff"
+            outline="#383838ff"
             inner="#202020ff"
             inner_sel="#96c6ddff"
-            item="#393939ff"
+            item="#383838ff"
             text="#cccccc"
             text_sel="#000000"
             show_shaded="FALSE"
@@ -96,10 +96,10 @@
         </wcol_radio>
         <wcol_text>
           <ThemeWidgetColors
-            outline="#393939ff"
+            outline="#383838ff"
             inner="#202020ff"
             inner_sel="#1a1a1aff"
-            item="#393939ff"
+            item="#383838ff"
             text="#cccccc"
             text_sel="#96c6dd"
             show_shaded="FALSE"
@@ -111,7 +111,7 @@
         </wcol_text>
         <wcol_option>
           <ThemeWidgetColors
-            outline="#393939ff"
+            outline="#383838ff"
             inner="#202020ff"
             inner_sel="#96c6ddff"
             item="#000000ff"
@@ -126,7 +126,7 @@
         </wcol_option>
         <wcol_toggle>
           <ThemeWidgetColors
-            outline="#393939ff"
+            outline="#383838ff"
             inner="#202020ff"
             inner_sel="#96c6ddff"
             item="#202020ff"
@@ -141,10 +141,10 @@
         </wcol_toggle>
         <wcol_num>
           <ThemeWidgetColors
-            outline="#393939ff"
+            outline="#383838ff"
             inner="#202020ff"
             inner_sel="#1a1a1aff"
-            item="#393939ff"
+            item="#383838ff"
             text="#cccccc"
             text_sel="#96c6dd"
             show_shaded="FALSE"
@@ -156,10 +156,10 @@
         </wcol_num>
         <wcol_numslider>
           <ThemeWidgetColors
-            outline="#393939ff"
+            outline="#383838ff"
             inner="#202020ff"
             inner_sel="#1a1a1aff"
-            item="#393939ff"
+            item="#383838ff"
             text="#cccccc"
             text_sel="#96c6dd"
             show_shaded="FALSE"
@@ -171,7 +171,7 @@
         </wcol_numslider>
         <wcol_box>
           <ThemeWidgetColors
-            outline="#393939ff"
+            outline="#383838ff"
             inner="#252525ff"
             inner_sel="#5c6067ff"
             item="#1a1a1aff"
@@ -186,7 +186,7 @@
         </wcol_box>
         <wcol_menu>
           <ThemeWidgetColors
-            outline="#393939ff"
+            outline="#383838ff"
             inner="#202020ff"
             inner_sel="#1a1a1aff"
             item="#ccccccff"
@@ -201,10 +201,10 @@
         </wcol_menu>
         <wcol_pulldown>
           <ThemeWidgetColors
-            outline="#393939ff"
+            outline="#383838ff"
             inner="#202020ff"
             inner_sel="#96c6ddff"
-            item="#393939ff"
+            item="#383838ff"
             text="#cccccc"
             text_sel="#000000"
             show_shaded="FALSE"
@@ -231,7 +231,7 @@
         </wcol_menu_back>
         <wcol_pie_menu>
           <ThemeWidgetColors
-            outline="#393939ff"
+            outline="#383838ff"
             inner="#202020ff"
             inner_sel="#ccccccff"
             item="#96c6ddff"
@@ -246,7 +246,7 @@
         </wcol_pie_menu>
         <wcol_tooltip>
           <ThemeWidgetColors
-            outline="#393939ff"
+            outline="#383838ff"
             inner="#202020ff"
             inner_sel="#1a1a1aff"
             item="#1a1a1aff"
@@ -279,7 +279,7 @@
             outline="#333333ff"
             inner="#202020ff"
             inner_sel="#ccccccff"
-            item="#393939ff"
+            item="#383838ff"
             text="#cccccc"
             text_sel="#ffffff"
             show_shaded="FALSE"
@@ -291,7 +291,7 @@
         </wcol_scroll>
         <wcol_progress>
           <ThemeWidgetColors
-            outline="#393939ff"
+            outline="#383838ff"
             inner="#202020ff"
             inner_sel="#96c6ddff"
             item="#96c6ddff"
@@ -306,7 +306,7 @@
         </wcol_progress>
         <wcol_list_item>
           <ThemeWidgetColors
-            outline="#393939ff"
+            outline="#383838ff"
             inner="#29292900"
             inner_sel="#96c6ddff"
             item="#ccccccff"
@@ -493,8 +493,8 @@
         channels_region="#202020"
         dopesheet_channel="#525252"
         dopesheet_subchannel="#333445"
-        channel_group="#393939"
-        active_channels_group="#393939"
+        channel_group="#383838"
+        active_channels_group="#383838"
         preview_range="#48576a99"
         vertex="#808080"
         vertex_select="#96c6dd"
@@ -946,7 +946,7 @@
     </properties>
     <text_editor>
       <ThemeTextEditor
-        line_numbers="#393939"
+        line_numbers="#383838"
         line_numbers_background="#202020"
         selected_text="#2e2e2e"
         cursor="#e6e6e6"
@@ -1119,9 +1119,9 @@
         info_info_text="#202020"
         info_debug="#bcb8e2ff"
         info_debug_text="#202020"
-        info_property="#393939ff"
+        info_property="#383838ff"
         info_property_text="#cccccc"
-        info_operator="#393939ff"
+        info_operator="#383838ff"
         info_operator_text="#cccccc"
         >
         <space>
