@@ -467,17 +467,17 @@
         </anim>
         <curves>
           <ThemeCommonCurves
-            handle_free="#000000"
-            handle_sel_free="#000000"
-            handle_auto="#909000"
-            handle_sel_auto="#f0ff40"
-            handle_vect="#409030"
-            handle_sel_vect="#40c030"
-            handle_align="#803060"
-            handle_sel_align="#f090a0"
-            handle_auto_clamped="#994030"
-            handle_sel_auto_clamped="#f0af90"
-            handle_vertex="#808080"
+            handle_free="#897931"
+            handle_sel_free="#fde05a"
+            handle_auto="#8c5b3a"
+            handle_sel_auto="#ee9b62"
+            handle_vect="#434aa4"
+            handle_sel_vect="#6973ff"
+            handle_align="#578862"
+            handle_sel_align="#8ddd9f"
+            handle_auto_clamped="#715a96"
+            handle_sel_auto_clamped="#b48fee"
+            handle_vertex="#888888"
             handle_vertex_select="#96c6dd"
             handle_vertex_size="5"
             >
