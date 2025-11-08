@@ -204,13 +204,13 @@
         </wcol_box>
         <wcol_curve>
           <ThemeWidgetColors
-            outline="#727272ff"
-            outline_sel="#9a9a9aff"
-            inner="#545454ff"
-            inner_sel="#000000ff"
-            item="#00000059"
-            text="#080808"
-            text_sel="#c9c9c9"
+            outline="#383838ff"
+            outline_sel="#525252ff"
+            inner="#202020ff"
+            inner_sel="#525252ff"
+            item="#32323240"
+            text="#525252"
+            text_sel="#888888"
             show_shaded="FALSE"
             shadetop="0"
             shadedown="0"
