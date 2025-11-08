@@ -2,8 +2,8 @@
   <Theme>
     <user_interface>
       <ThemeUserInterface
-        menu_shadow_fac="0.5"
-        menu_shadow_width="4"
+        menu_shadow_fac="0.1"
+        menu_shadow_width="12"
         icon_alpha="1"
         icon_saturation="0.5"
         widget_emboss="#00000000"
