@@ -11,7 +11,7 @@
         editor_outline="#333333ff"
         editor_outline_active="#525252ff"
         widget_text_cursor="#e6e6e6"
-        panel_roundness="0.75"
+        panel_roundness="0.7"
         panel_header="#292929ff"
         panel_title="#cccccc"
         panel_text="#cccccc"
@@ -198,7 +198,7 @@
             show_shaded="FALSE"
             shadetop="0"
             shadedown="0"
-            roundness="0.5"
+            roundness="0.7"
             >
           </ThemeWidgetColors>
         </wcol_box>
@@ -214,7 +214,7 @@
             show_shaded="FALSE"
             shadetop="0"
             shadedown="0"
-            roundness="0.4"
+            roundness="0.5"
             >
           </ThemeWidgetColors>
         </wcol_curve>
@@ -262,7 +262,7 @@
             show_shaded="FALSE"
             shadetop="25"
             shadedown="-20"
-            roundness="0.5"
+            roundness="0.7"
             >
           </ThemeWidgetColors>
         </wcol_menu_back>
@@ -278,7 +278,7 @@
             show_shaded="FALSE"
             shadetop="10"
             shadedown="-10"
-            roundness="0.5"
+            roundness="0.6"
             >
           </ThemeWidgetColors>
         </wcol_pie_menu>
@@ -294,7 +294,7 @@
             show_shaded="FALSE"
             shadetop="25"
             shadedown="-20"
-            roundness="0.5"
+            roundness="0.7"
             >
           </ThemeWidgetColors>
         </wcol_tooltip>
