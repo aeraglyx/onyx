@@ -420,9 +420,9 @@
         <scrubbing>
           <ThemeRegionsScrubbing
             back="#202020ff"
-            text="#a6a6a6"
+            text="#888888"
             time_marker="#666666ff"
-            time_marker_selected="#999999ff"
+            time_marker_selected="#888888ff"
             >
           </ThemeRegionsScrubbing>
         </scrubbing>
