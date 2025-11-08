@@ -932,7 +932,7 @@
     <clip_editor>
       <ThemeClipEditor
         grid="#202020ff"
-        marker_outline="#000000"
+        marker_outline="#202020"
         marker="#cccccc"
         active_marker="#ffffff"
         selected_marker="#96c6dd"
