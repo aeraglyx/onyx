@@ -1227,7 +1227,7 @@
   <ThemeStyle>
     <panel_title>
       <ThemeFontStyle
-        points="12"
+        points="11"
         character_weight="400"
         shadow="3"
         shadow_offset_x="0"
