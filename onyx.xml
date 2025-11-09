@@ -953,7 +953,7 @@
             text_hi="#cccccc"
             header="#292929ff"
             header_text="#cccccc"
-            header_text_hi="#cccccc"
+            header_text_hi="#000000"
             >
           </ThemeSpaceGeneric>
         </space>
