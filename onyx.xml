@@ -624,8 +624,8 @@
         sound_strips_selected="#1f7a7a"
         tweak="#4df31a"
         tweak_duplicate="#d90000"
-        keyframe_border="#909090ff"
-        keyframe_border_selected="#909090ff"
+        keyframe_border="#888888ff"
+        keyframe_border_selected="#888888ff"
         >
         <space>
           <ThemeSpaceGeneric
@@ -767,8 +767,8 @@
         line_numbers_background="#202020"
         selected_text="#2e2e2e"
         cursor="#e6e6e6"
-        syntax_builtin="#909090"
-        syntax_symbols="#909090"
+        syntax_builtin="#888888"
+        syntax_symbols="#888888"
         syntax_special="#bab0e4"
         syntax_preprocessor="#bab0e4"
         syntax_reserved="#deb39c"
