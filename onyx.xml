@@ -688,7 +688,7 @@
         preview_stitch_active="#e1d2c323"
         uv_shadow="#707070ff"
         metadatabg="#000000"
-        metadatatext="#ffffff"
+        metadatatext="#cccccc"
         >
         <space>
           <ThemeSpaceGeneric
@@ -724,7 +724,7 @@
         keyframe_border_selected="#000000ff"
         preview_back="#000000"
         metadatabg="#000000"
-        metadatatext="#ffffff"
+        metadatatext="#cccccc"
         row_alternate="#ffffff03"
         text_strip_cursor="#96c6ddff"
         selected_text="#cccccc20"
@@ -943,7 +943,7 @@
         path_keyframe_before="#bab0e4"
         path_keyframe_after="#96c6dd"
         metadatabg="#000000"
-        metadatatext="#ffffff"
+        metadatatext="#cccccc"
         >
         <space>
           <ThemeSpaceGeneric
