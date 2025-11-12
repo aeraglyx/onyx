@@ -722,7 +722,7 @@
         selected_strip="#96c6dd"
         keyframe_border="#000000ff"
         keyframe_border_selected="#000000ff"
-        preview_back="#000000"
+        preview_back="#1a1a1a"
         metadatabg="#000000"
         metadatatext="#cccccc"
         row_alternate="#ffffff03"
