@@ -611,8 +611,8 @@
     </file_browser>
     <nla_editor>
       <ThemeNLAEditor
-        grid="#292929"
-        active_action="#4037544d"
+        grid="#333333"
+        active_action="#38383880"
         active_action_unset="#6d3e4d33"
         strips="#525252"
         strips_selected="#96c6dd"
