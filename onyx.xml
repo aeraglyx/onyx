@@ -256,7 +256,7 @@
             outline_sel="#242424ff"
             inner="#292929ff"
             inner_sel="#292929ff"
-            item="#808080ff"
+            item="#888888ff"
             text="#cccccc"
             text_sel="#cccccc"
             show_shaded="FALSE"
@@ -571,7 +571,7 @@
     <graph_editor>
       <ThemeGraphEditor
         grid="#333333"
-        vertex="#808080"
+        vertex="#888888"
         vertex_select="#96c6dd"
         vertex_active="#ffffff"
         vertex_size="7"
@@ -668,7 +668,7 @@
     <image_editor>
       <ThemeImageEditor
         grid="#292929ff"
-        vertex="#808080"
+        vertex="#888888"
         vertex_select="#96c6dd"
         vertex_size="4"
         face="#1a1a1abf"
@@ -679,7 +679,7 @@
         wire_edit="#666666"
         edge_width="1"
         edge_select="#96c6dd"
-        scope_back="#808080ff"
+        scope_back="#888888ff"
         preview_stitch_face="#7f7f0033"
         preview_stitch_edge="#ff00ff33"
         preview_stitch_vert="#0000ff33"
