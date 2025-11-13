@@ -783,7 +783,7 @@
             text="#cccccc"
             text_hi="#cccccc"
             header="#292929ff"
-            header_text="#cccccc"
+            header_text="#888888"
             header_text_hi="#cccccc"
             >
           </ThemeSpaceGeneric>
