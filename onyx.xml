@@ -6,7 +6,7 @@
         menu_shadow_width="12"
         icon_alpha="1"
         icon_saturation="0.3"
-        widget_emboss="#202020ff"
+        widget_emboss="#00000033"
         editor_border="#131313"
         editor_outline="#333333ff"
         editor_outline_active="#525252ff"
