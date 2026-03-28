@@ -210,7 +210,7 @@
             inner_sel="#525252ff"
             item="#32323240"
             text="#525252"
-            text_sel="#888888"
+            text_sel="#8b8b8b"
             show_shaded="FALSE"
             shadetop="0"
             shadedown="0"
@@ -256,7 +256,7 @@
             outline_sel="#242424ff"
             inner="#292929ff"
             inner_sel="#292929ff"
-            item="#888888ff"
+            item="#8b8b8bff"
             text="#c8c8c8"
             text_sel="#c8c8c8"
             show_shaded="FALSE"
@@ -349,7 +349,7 @@
         <wcol_list_item>
           <ThemeWidgetColors
             outline="#38383800"
-            outline_sel="#888888ff"
+            outline_sel="#8b8b8bff"
             inner="#29292900"
             inner_sel="#96c6ddff"
             item="#c8c8c8ff"
@@ -420,9 +420,9 @@
         <scrubbing>
           <ThemeRegionsScrubbing
             back="#202020ff"
-            text="#888888"
+            text="#8b8b8b"
             time_marker="#666666ff"
-            time_marker_selected="#888888ff"
+            time_marker_selected="#8b8b8bff"
             >
           </ThemeRegionsScrubbing>
         </scrubbing>
@@ -448,7 +448,7 @@
             channel_group_active="#52525280"
             channel="#20202000"
             channel_selected="#3a454e80"
-            keyframe="#888888"
+            keyframe="#8b8b8b"
             keyframe_selected="#96c6dd"
             keyframe_extreme="#96677c"
             keyframe_extreme_selected="#f2a0b7"
@@ -477,7 +477,7 @@
             handle_sel_align="#8ddd9f"
             handle_auto_clamped="#715a96"
             handle_sel_auto_clamped="#b48fee"
-            handle_vertex="#888888"
+            handle_vertex="#8b8b8b"
             handle_vertex_select="#96c6dd"
             handle_vertex_size="5"
             >
@@ -571,7 +571,7 @@
     <graph_editor>
       <ThemeGraphEditor
         grid="#333333"
-        vertex="#888888"
+        vertex="#8b8b8b"
         vertex_select="#96c6dd"
         vertex_active="#ffffff"
         vertex_size="7"
@@ -624,8 +624,8 @@
         sound_strips_selected="#1f7a7a"
         tweak="#4df31a"
         tweak_duplicate="#d90000"
-        keyframe_border="#888888ff"
-        keyframe_border_selected="#888888ff"
+        keyframe_border="#8b8b8bff"
+        keyframe_border_selected="#8b8b8bff"
         >
         <space>
           <ThemeSpaceGeneric
@@ -668,7 +668,7 @@
     <image_editor>
       <ThemeImageEditor
         grid="#292929ff"
-        vertex="#888888"
+        vertex="#8b8b8b"
         vertex_select="#96c6dd"
         vertex_size="4"
         face="#1a1a1abf"
@@ -679,7 +679,7 @@
         wire_edit="#666666"
         edge_width="1"
         edge_select="#96c6dd"
-        scope_back="#888888ff"
+        scope_back="#8b8b8bff"
         preview_stitch_face="#7f7f0033"
         preview_stitch_edge="#ff00ff33"
         preview_stitch_vert="#0000ff33"
@@ -767,8 +767,8 @@
         line_numbers_background="#202020"
         selected_text="#2e2e2e"
         cursor="#e6e6e6"
-        syntax_builtin="#888888"
-        syntax_symbols="#888888"
+        syntax_builtin="#8b8b8b"
+        syntax_symbols="#8b8b8b"
         syntax_special="#bab0e4"
         syntax_preprocessor="#bab0e4"
         syntax_reserved="#deb39c"
@@ -783,7 +783,7 @@
             text="#c8c8c8"
             text_hi="#c8c8c8"
             header="#292929ff"
-            header_text="#888888"
+            header_text="#8b8b8b"
             header_text_hi="#c8c8c8"
             >
           </ThemeSpaceGeneric>
@@ -937,7 +937,7 @@
         active_marker="#ffffff"
         selected_marker="#96c6dd"
         disabled_marker="#525252"
-        locked_marker="#888888"
+        locked_marker="#8b8b8b"
         path_before="#bab0e4"
         path_after="#96c6dd"
         path_keyframe_before="#bab0e4"
@@ -949,7 +949,7 @@
           <ThemeSpaceGeneric
             back="#202020"
             title="#c8c8c8"
-            text="#888888"
+            text="#8b8b8b"
             text_hi="#c8c8c8"
             header="#292929ff"
             header_text="#c8c8c8"
@@ -984,7 +984,7 @@
             text="#c8c8c8"
             text_hi="#c8c8c8"
             header="#292929ff"
-            header_text="#888888"
+            header_text="#8b8b8b"
             header_text_hi="#c8c8c8"
             >
           </ThemeSpaceGeneric>
@@ -1002,7 +1002,7 @@
             text="#c8c8c8"
             text_hi="#c8c8c8"
             header="#292929ff"
-            header_text="#888888"
+            header_text="#8b8b8b"
             header_text_hi="#c8c8c8"
             >
           </ThemeSpaceGeneric>
