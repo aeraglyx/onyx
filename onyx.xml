@@ -13,8 +13,8 @@
         widget_text_cursor="#e6e6e6"
         panel_roundness="0.7"
         panel_header="#292929ff"
-        panel_title="#cccccc"
-        panel_text="#cccccc"
+        panel_title="#c8c8c8"
+        panel_text="#c8c8c8"
         panel_back="#292929ff"
         panel_sub_back="#252525ff"
         panel_outline="#383838ff"
@@ -32,13 +32,13 @@
         gizmo_view_align="#e6e6e6"
         gizmo_a="#4da84d"
         gizmo_b="#a33535"
-        icon_scene="#ccccccff"
-        icon_collection="#ccccccff"
+        icon_scene="#c8c8c8ff"
+        icon_collection="#c8c8c8ff"
         icon_object="#96c6ddff"
         icon_object_data="#bab0e4ff"
-        icon_modifier="#ccccccff"
-        icon_shading="#ccccccff"
-        icon_folder="#ccccccff"
+        icon_modifier="#c8c8c8ff"
+        icon_shading="#c8c8c8ff"
+        icon_folder="#c8c8c8ff"
         icon_autokey="#ff5290ff"
         icon_border_intensity="0.6"
         >
@@ -49,7 +49,7 @@
             inner="#202020ff"
             inner_sel="#202020ff"
             item="#383838ff"
-            text="#cccccc"
+            text="#c8c8c8"
             text_sel="#96c6dd"
             show_shaded="FALSE"
             shadetop="0"
@@ -65,7 +65,7 @@
             inner="#383838ff"
             inner_sel="#96c6ddff"
             item="#ffffffff"
-            text="#cccccc"
+            text="#c8c8c8"
             text_sel="#000000"
             show_shaded="FALSE"
             shadetop="0"
@@ -80,8 +80,8 @@
             outline_sel="#525252ff"
             inner="#292929ff"
             inner_sel="#96c6ddff"
-            item="#ccccccff"
-            text="#cccccc"
+            item="#c8c8c8ff"
+            text="#c8c8c8"
             text_sel="#ffffff"
             show_shaded="FALSE"
             shadetop="0"
@@ -97,7 +97,7 @@
             inner="#202020ff"
             inner_sel="#96c6ddff"
             item="#383838ff"
-            text="#cccccc"
+            text="#c8c8c8"
             text_sel="#000000"
             show_shaded="FALSE"
             shadetop="5"
@@ -113,7 +113,7 @@
             inner="#202020ff"
             inner_sel="#1a1a1aff"
             item="#383838ff"
-            text="#cccccc"
+            text="#c8c8c8"
             text_sel="#96c6dd"
             show_shaded="FALSE"
             shadetop="-3"
@@ -129,8 +129,8 @@
             inner="#202020ff"
             inner_sel="#96c6ddff"
             item="#000000ff"
-            text="#cccccc"
-            text_sel="#cccccc"
+            text="#c8c8c8"
+            text_sel="#c8c8c8"
             show_shaded="FALSE"
             shadetop="0"
             shadedown="-15"
@@ -145,7 +145,7 @@
             inner="#202020ff"
             inner_sel="#96c6ddff"
             item="#202020ff"
-            text="#cccccc"
+            text="#c8c8c8"
             text_sel="#202020"
             show_shaded="FALSE"
             shadetop="0"
@@ -161,7 +161,7 @@
             inner="#202020ff"
             inner_sel="#1a1a1aff"
             item="#383838ff"
-            text="#cccccc"
+            text="#c8c8c8"
             text_sel="#96c6dd"
             show_shaded="FALSE"
             shadetop="0"
@@ -177,7 +177,7 @@
             inner="#202020ff"
             inner_sel="#1a1a1aff"
             item="#383838ff"
-            text="#cccccc"
+            text="#c8c8c8"
             text_sel="#96c6dd"
             show_shaded="FALSE"
             shadetop="-4"
@@ -193,7 +193,7 @@
             inner="#252525ff"
             inner_sel="#5c6067ff"
             item="#1a1a1aff"
-            text="#cccccc"
+            text="#c8c8c8"
             text_sel="#ffffff"
             show_shaded="FALSE"
             shadetop="0"
@@ -224,8 +224,8 @@
             outline_sel="#525252ff"
             inner="#202020ff"
             inner_sel="#1a1a1aff"
-            item="#ccccccff"
-            text="#cccccc"
+            item="#c8c8c8ff"
+            text="#c8c8c8"
             text_sel="#ffffff"
             show_shaded="FALSE"
             shadetop="10"
@@ -241,7 +241,7 @@
             inner="#202020ff"
             inner_sel="#96c6ddff"
             item="#383838ff"
-            text="#cccccc"
+            text="#c8c8c8"
             text_sel="#000000"
             show_shaded="FALSE"
             shadetop="25"
@@ -257,8 +257,8 @@
             inner="#292929ff"
             inner_sel="#292929ff"
             item="#888888ff"
-            text="#cccccc"
-            text_sel="#cccccc"
+            text="#c8c8c8"
+            text_sel="#c8c8c8"
             show_shaded="FALSE"
             shadetop="25"
             shadedown="-20"
@@ -273,7 +273,7 @@
             inner="#202020ff"
             inner_sel="#96c6ddff"
             item="#96c6ddff"
-            text="#cccccc"
+            text="#c8c8c8"
             text_sel="#000000"
             show_shaded="FALSE"
             shadetop="10"
@@ -289,7 +289,7 @@
             inner="#202020ff"
             inner_sel="#1a1a1aff"
             item="#1a1a1aff"
-            text="#cccccc"
+            text="#c8c8c8"
             text_sel="#ffffff"
             show_shaded="FALSE"
             shadetop="25"
@@ -305,7 +305,7 @@
             inner="#96c6dd00"
             inner_sel="#96c6ddff"
             item="#ffffff80"
-            text="#cccccc"
+            text="#c8c8c8"
             text_sel="#000000"
             show_shaded="FALSE"
             shadetop="38"
@@ -319,9 +319,9 @@
             outline="#333333ff"
             outline_sel="#525252ff"
             inner="#202020ff"
-            inner_sel="#ccccccff"
+            inner_sel="#c8c8c8ff"
             item="#383838ff"
-            text="#cccccc"
+            text="#c8c8c8"
             text_sel="#ffffff"
             show_shaded="FALSE"
             shadetop="5"
@@ -337,7 +337,7 @@
             inner="#202020ff"
             inner_sel="#96c6ddff"
             item="#96c6ddff"
-            text="#cccccc"
+            text="#c8c8c8"
             text_sel="#ffffff"
             show_shaded="FALSE"
             shadetop="0"
@@ -352,8 +352,8 @@
             outline_sel="#888888ff"
             inner="#29292900"
             inner_sel="#96c6ddff"
-            item="#ccccccff"
-            text="#cccccc"
+            item="#c8c8c8ff"
+            text="#c8c8c8"
             text_sel="#000000"
             show_shaded="FALSE"
             shadetop="0"
@@ -389,7 +389,7 @@
             inner="#202020ff"
             inner_sel="#96c6ddff"
             item="#292929ff"
-            text="#cccccc"
+            text="#c8c8c8"
             text_sel="#000000"
             show_shaded="FALSE"
             shadetop="0"
@@ -412,7 +412,7 @@
         <channels>
           <ThemeRegionsChannels
             back="#292929"
-            text="#cccccc"
+            text="#c8c8c8"
             text_selected="#ffffff"
             >
           </ThemeRegionsChannels>
@@ -459,7 +459,7 @@
             keyframe_moving_hold="#997c6c"
             keyframe_moving_hold_selected="#deb39c"
             keyframe_generated="#525252"
-            keyframe_generated_selected="#cccccc"
+            keyframe_generated_selected="#c8c8c8"
             long_key="#202020bf"
             long_key_selected="#202020ff"
             >
@@ -518,7 +518,7 @@
         sharp="#5df1d2"
         crease="#d441af"
         freestyle="#86d8864d"
-        extra_edge_len="#cccccc"
+        extra_edge_len="#c8c8c8"
         extra_edge_angle="#d477ff"
         extra_face_angle="#a0ffd4"
         extra_face_area="#f35ea4"
@@ -534,11 +534,11 @@
         nurb_sel_vline="#f090a0"
         bone_pose="#5ec8c8"
         bone_pose_active="#bfffff"
-        bone_solid="#cccccc"
+        bone_solid="#c8c8c8"
         bone_locked_weight="#ff000080"
         before_current_frame="#f22e23"
         after_current_frame="#78f244"
-        bundle_solid="#cccccc"
+        bundle_solid="#c8c8c8"
         camera_path="#606060"
         camera_passepartout="#131313"
         skin_root="#b44d4d"
@@ -549,12 +549,12 @@
         >
         <space>
           <ThemeSpaceGradient
-            title="#cccccc"
-            text="#cccccc"
-            text_hi="#cccccc"
+            title="#c8c8c8"
+            text="#c8c8c8"
+            text_hi="#c8c8c8"
             header="#29292900"
-            header_text="#cccccc"
-            header_text_hi="#cccccc"
+            header_text="#c8c8c8"
+            header_text_hi="#c8c8c8"
             >
             <gradients>
               <ThemeGradientColors
@@ -579,11 +579,11 @@
         <space>
           <ThemeSpaceGeneric
             back="#292929"
-            title="#cccccc"
-            text="#cccccc"
-            text_hi="#cccccc"
+            title="#c8c8c8"
+            text="#c8c8c8"
+            text_hi="#c8c8c8"
             header="#292929ff"
-            header_text="#cccccc"
+            header_text="#c8c8c8"
             header_text_hi="#000000"
             >
           </ThemeSpaceGeneric>
@@ -598,12 +598,12 @@
         <space>
           <ThemeSpaceGeneric
             back="#202020"
-            title="#cccccc"
-            text="#cccccc"
-            text_hi="#cccccc"
+            title="#c8c8c8"
+            text="#c8c8c8"
+            text_hi="#c8c8c8"
             header="#292929ff"
-            header_text="#cccccc"
-            header_text_hi="#cccccc"
+            header_text="#c8c8c8"
+            header_text_hi="#c8c8c8"
             >
           </ThemeSpaceGeneric>
         </space>
@@ -630,11 +630,11 @@
         <space>
           <ThemeSpaceGeneric
             back="#292929"
-            title="#cccccc"
-            text="#cccccc"
-            text_hi="#cccccc"
+            title="#c8c8c8"
+            text="#c8c8c8"
+            text_hi="#c8c8c8"
             header="#292929ff"
-            header_text="#cccccc"
+            header_text="#c8c8c8"
             header_text_hi="#000000"
             >
           </ThemeSpaceGeneric>
@@ -654,11 +654,11 @@
         <space>
           <ThemeSpaceGeneric
             back="#292929"
-            title="#cccccc"
+            title="#c8c8c8"
             text="#a6a6a6"
-            text_hi="#cccccc"
+            text_hi="#c8c8c8"
             header="#292929ff"
-            header_text="#cccccc"
+            header_text="#c8c8c8"
             header_text_hi="#000000"
             >
           </ThemeSpaceGeneric>
@@ -688,17 +688,17 @@
         preview_stitch_active="#e1d2c323"
         uv_shadow="#707070ff"
         metadatabg="#000000"
-        metadatatext="#cccccc"
+        metadatatext="#c8c8c8"
         >
         <space>
           <ThemeSpaceGeneric
             back="#1a1a1a"
-            title="#cccccc"
-            text="#cccccc"
-            text_hi="#cccccc"
+            title="#c8c8c8"
+            text="#c8c8c8"
+            text_hi="#c8c8c8"
             header="#292929ff"
-            header_text="#cccccc"
-            header_text_hi="#cccccc"
+            header_text="#c8c8c8"
+            header_text_hi="#c8c8c8"
             >
           </ThemeSpaceGeneric>
         </space>
@@ -724,19 +724,19 @@
         keyframe_border_selected="#000000ff"
         preview_back="#1a1a1a"
         metadatabg="#000000"
-        metadatatext="#cccccc"
+        metadatatext="#c8c8c8"
         row_alternate="#ffffff03"
         text_strip_cursor="#96c6ddff"
-        selected_text="#cccccc20"
+        selected_text="#c8c8c820"
         >
         <space>
           <ThemeSpaceGeneric
             back="#252525"
-            title="#cccccc"
-            text="#cccccc"
-            text_hi="#cccccc"
+            title="#c8c8c8"
+            text="#c8c8c8"
+            text_hi="#c8c8c8"
             header="#292929ff"
-            header_text="#cccccc"
+            header_text="#c8c8c8"
             header_text_hi="#000000"
             >
           </ThemeSpaceGeneric>
@@ -750,12 +750,12 @@
         <space>
           <ThemeSpaceGeneric
             back="#202020"
-            title="#cccccc"
-            text="#cccccc"
-            text_hi="#cccccc"
+            title="#c8c8c8"
+            text="#c8c8c8"
+            text_hi="#c8c8c8"
             header="#292929ff"
-            header_text="#cccccc"
-            header_text_hi="#cccccc"
+            header_text="#c8c8c8"
+            header_text_hi="#c8c8c8"
             >
           </ThemeSpaceGeneric>
         </space>
@@ -779,12 +779,12 @@
         <space>
           <ThemeSpaceGeneric
             back="#202020"
-            title="#cccccc"
-            text="#cccccc"
-            text_hi="#cccccc"
+            title="#c8c8c8"
+            text="#c8c8c8"
+            text_hi="#c8c8c8"
             header="#292929ff"
             header_text="#888888"
-            header_text_hi="#cccccc"
+            header_text_hi="#c8c8c8"
             >
           </ThemeSpaceGeneric>
         </space>
@@ -827,12 +827,12 @@
         <space>
           <ThemeSpaceGeneric
             back="#1a1a1a"
-            title="#cccccc"
-            text="#cccccc"
-            text_hi="#cccccc"
+            title="#c8c8c8"
+            text="#c8c8c8"
+            text_hi="#c8c8c8"
             header="#292929ff"
-            header_text="#cccccc"
-            header_text_hi="#cccccc"
+            header_text="#c8c8c8"
+            header_text_hi="#c8c8c8"
             >
           </ThemeSpaceGeneric>
         </space>
@@ -851,12 +851,12 @@
         <space>
           <ThemeSpaceGeneric
             back="#1f1f1f"
-            title="#cccccc"
-            text="#cccccc"
-            text_hi="#cccccc"
+            title="#c8c8c8"
+            text="#c8c8c8"
+            text_hi="#c8c8c8"
             header="#292929ff"
-            header_text="#cccccc"
-            header_text_hi="#cccccc"
+            header_text="#c8c8c8"
+            header_text_hi="#c8c8c8"
             >
           </ThemeSpaceGeneric>
         </space>
@@ -872,19 +872,19 @@
         info_debug="#bcb8e2ff"
         info_debug_text="#202020"
         info_property="#383838ff"
-        info_property_text="#cccccc"
+        info_property_text="#c8c8c8"
         info_operator="#383838ff"
-        info_operator_text="#cccccc"
+        info_operator_text="#c8c8c8"
         >
         <space>
           <ThemeSpaceGeneric
             back="#202020"
-            title="#cccccc"
-            text="#cccccc"
-            text_hi="#cccccc"
+            title="#c8c8c8"
+            text="#c8c8c8"
+            text_hi="#c8c8c8"
             header="#292929ff"
-            header_text="#cccccc"
-            header_text_hi="#cccccc"
+            header_text="#c8c8c8"
+            header_text_hi="#c8c8c8"
             >
           </ThemeSpaceGeneric>
         </space>
@@ -895,12 +895,12 @@
         <space>
           <ThemeSpaceGeneric
             back="#202020"
-            title="#cccccc"
-            text="#cccccc"
-            text_hi="#cccccc"
+            title="#c8c8c8"
+            text="#c8c8c8"
+            text_hi="#c8c8c8"
             header="#292929ff"
-            header_text="#cccccc"
-            header_text_hi="#cccccc"
+            header_text="#c8c8c8"
+            header_text_hi="#c8c8c8"
             >
           </ThemeSpaceGeneric>
         </space>
@@ -909,7 +909,7 @@
     <console>
       <ThemeConsole
         line_output="#96c6dd"
-        line_input="#cccccc"
+        line_input="#c8c8c8"
         line_info="#666666"
         line_error="#fd7eaa"
         cursor="#e6e6e6"
@@ -918,12 +918,12 @@
         <space>
           <ThemeSpaceGeneric
             back="#202020"
-            title="#cccccc"
-            text="#cccccc"
-            text_hi="#cccccc"
+            title="#c8c8c8"
+            text="#c8c8c8"
+            text_hi="#c8c8c8"
             header="#292929ff"
-            header_text="#cccccc"
-            header_text_hi="#cccccc"
+            header_text="#c8c8c8"
+            header_text_hi="#c8c8c8"
             >
           </ThemeSpaceGeneric>
         </space>
@@ -933,7 +933,7 @@
       <ThemeClipEditor
         grid="#202020ff"
         marker_outline="#202020"
-        marker="#cccccc"
+        marker="#c8c8c8"
         active_marker="#ffffff"
         selected_marker="#96c6dd"
         disabled_marker="#525252"
@@ -943,16 +943,16 @@
         path_keyframe_before="#bab0e4"
         path_keyframe_after="#96c6dd"
         metadatabg="#000000"
-        metadatatext="#cccccc"
+        metadatatext="#c8c8c8"
         >
         <space>
           <ThemeSpaceGeneric
             back="#202020"
-            title="#cccccc"
+            title="#c8c8c8"
             text="#888888"
-            text_hi="#cccccc"
+            text_hi="#c8c8c8"
             header="#292929ff"
-            header_text="#cccccc"
+            header_text="#c8c8c8"
             header_text_hi="#000000"
             >
           </ThemeSpaceGeneric>
@@ -964,12 +964,12 @@
         <space>
           <ThemeSpaceGeneric
             back="#2f2f2f"
-            title="#cccccc"
-            text="#cccccc"
-            text_hi="#cccccc"
+            title="#c8c8c8"
+            text="#c8c8c8"
+            text_hi="#c8c8c8"
             header="#292929ff"
-            header_text="#cccccc"
-            header_text_hi="#cccccc"
+            header_text="#c8c8c8"
+            header_text_hi="#c8c8c8"
             >
           </ThemeSpaceGeneric>
         </space>
@@ -980,12 +980,12 @@
         <space>
           <ThemeSpaceGeneric
             back="#2e2e2e"
-            title="#cccccc"
-            text="#cccccc"
-            text_hi="#cccccc"
+            title="#c8c8c8"
+            text="#c8c8c8"
+            text_hi="#c8c8c8"
             header="#292929ff"
             header_text="#888888"
-            header_text_hi="#cccccc"
+            header_text_hi="#c8c8c8"
             >
           </ThemeSpaceGeneric>
         </space>
@@ -998,12 +998,12 @@
         <space>
           <ThemeSpaceGeneric
             back="#1f1f1f"
-            title="#cccccc"
-            text="#cccccc"
-            text_hi="#cccccc"
+            title="#c8c8c8"
+            text="#c8c8c8"
+            text_hi="#c8c8c8"
             header="#292929ff"
             header_text="#888888"
-            header_text_hi="#cccccc"
+            header_text_hi="#c8c8c8"
             >
           </ThemeSpaceGeneric>
         </space>
