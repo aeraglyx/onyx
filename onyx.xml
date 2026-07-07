@@ -487,11 +487,13 @@
     </common>
     <view_3d>
       <ThemeView3D
-        grid="#202020ff"
+        grid="#1a1a1aff"
+        grid_major="#292929ff"
         clipping_border_3d="#1a1a1aff"
         wire="#606060"
         wire_edit="#606060"
         edge_width="1"
+        gp_wire_edit="#606060ff"
         gp_vertex="#606060"
         gp_vertex_select="#96c6dd"
         gp_vertex_size="3"
@@ -648,7 +650,9 @@
         keyframe_border_selected="#1a1a1aff"
         keyframe_scale_factor="1"
         summary="#20202080"
-        interpolation_line="#94e575cc"
+        anim_interpolation_linear="#87d6a8bf"
+        anim_interpolation_constant="#dea489bf"
+        anim_interpolation_other="#7ebed8bf"
         simulated_frames="#721e65ff"
         >
         <space>
@@ -891,7 +895,9 @@
       </ThemeInfo>
     </info>
     <preferences>
-      <ThemePreferences>
+      <ThemePreferences
+        match="#32695e"
+        >
         <space>
           <ThemeSpaceGeneric
             back="#202020"
