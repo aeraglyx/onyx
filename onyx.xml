@@ -7,7 +7,7 @@
         icon_alpha="1"
         icon_saturation="0.3"
         widget_emboss="#00000033"
-        editor_border="#131313"
+        editor_border="#0e0e0e"
         editor_outline="#333333ff"
         editor_outline_active="#525252ff"
         widget_text_cursor="#e6e6e6"
