@@ -19,7 +19,7 @@
         panel_sub_back="#252525ff"
         panel_outline="#383838ff"
         panel_active="#96c6ddff"
-        transparent_checker_primary="#202020"
+        transparent_checker_primary="#1f1f1f"
         transparent_checker_secondary="#292929"
         transparent_checker_size="8"
         axis_x="#bab0e4"
@@ -46,8 +46,8 @@
           <ThemeWidgetColors
             outline="#383838ff"
             outline_sel="#383838ff"
-            inner="#202020ff"
-            inner_sel="#202020ff"
+            inner="#1f1f1fff"
+            inner_sel="#1f1f1fff"
             item="#383838ff"
             text="#c8c8c8"
             text_sel="#96c6dd"
@@ -94,7 +94,7 @@
           <ThemeWidgetColors
             outline="#383838ff"
             outline_sel="#525252ff"
-            inner="#202020ff"
+            inner="#1f1f1fff"
             inner_sel="#96c6ddff"
             item="#383838ff"
             text="#c8c8c8"
@@ -110,7 +110,7 @@
           <ThemeWidgetColors
             outline="#383838ff"
             outline_sel="#525252ff"
-            inner="#202020ff"
+            inner="#1f1f1fff"
             inner_sel="#191919ff"
             item="#383838ff"
             text="#c8c8c8"
@@ -126,7 +126,7 @@
           <ThemeWidgetColors
             outline="#383838ff"
             outline_sel="#525252ff"
-            inner="#202020ff"
+            inner="#1f1f1fff"
             inner_sel="#96c6ddff"
             item="#000000ff"
             text="#c8c8c8"
@@ -142,11 +142,11 @@
           <ThemeWidgetColors
             outline="#383838ff"
             outline_sel="#525252ff"
-            inner="#202020ff"
+            inner="#1f1f1fff"
             inner_sel="#96c6ddff"
-            item="#202020ff"
+            item="#1f1f1fff"
             text="#c8c8c8"
-            text_sel="#202020"
+            text_sel="#1f1f1f"
             show_shaded="FALSE"
             shadetop="0"
             shadedown="0"
@@ -158,7 +158,7 @@
           <ThemeWidgetColors
             outline="#383838ff"
             outline_sel="#525252ff"
-            inner="#202020ff"
+            inner="#1f1f1fff"
             inner_sel="#191919ff"
             item="#383838ff"
             text="#c8c8c8"
@@ -174,7 +174,7 @@
           <ThemeWidgetColors
             outline="#383838ff"
             outline_sel="#525252ff"
-            inner="#202020ff"
+            inner="#1f1f1fff"
             inner_sel="#191919ff"
             item="#383838ff"
             text="#c8c8c8"
@@ -206,7 +206,7 @@
           <ThemeWidgetColors
             outline="#383838ff"
             outline_sel="#525252ff"
-            inner="#202020ff"
+            inner="#1f1f1fff"
             inner_sel="#525252ff"
             item="#32323240"
             text="#525252"
@@ -222,7 +222,7 @@
           <ThemeWidgetColors
             outline="#383838ff"
             outline_sel="#525252ff"
-            inner="#202020ff"
+            inner="#1f1f1fff"
             inner_sel="#191919ff"
             item="#c8c8c8ff"
             text="#c8c8c8"
@@ -236,9 +236,9 @@
         </wcol_menu>
         <wcol_pulldown>
           <ThemeWidgetColors
-            outline="#202020ff"
+            outline="#1f1f1fff"
             outline_sel="#525252ff"
-            inner="#202020ff"
+            inner="#1f1f1fff"
             inner_sel="#96c6ddff"
             item="#383838ff"
             text="#c8c8c8"
@@ -269,8 +269,8 @@
         <wcol_pie_menu>
           <ThemeWidgetColors
             outline="#383838ff"
-            outline_sel="#202020ff"
-            inner="#202020ff"
+            outline_sel="#1f1f1fff"
+            inner="#1f1f1fff"
             inner_sel="#96c6ddff"
             item="#96c6ddff"
             text="#c8c8c8"
@@ -286,7 +286,7 @@
           <ThemeWidgetColors
             outline="#525252ff"
             outline_sel="#383838ff"
-            inner="#202020ff"
+            inner="#1f1f1fff"
             inner_sel="#191919ff"
             item="#191919ff"
             text="#c8c8c8"
@@ -318,7 +318,7 @@
           <ThemeWidgetColors
             outline="#333333ff"
             outline_sel="#525252ff"
-            inner="#202020ff"
+            inner="#1f1f1fff"
             inner_sel="#c8c8c8ff"
             item="#383838ff"
             text="#c8c8c8"
@@ -334,7 +334,7 @@
           <ThemeWidgetColors
             outline="#383838ff"
             outline_sel="#525252ff"
-            inner="#202020ff"
+            inner="#1f1f1fff"
             inner_sel="#96c6ddff"
             item="#96c6ddff"
             text="#c8c8c8"
@@ -386,7 +386,7 @@
           <ThemeWidgetColors
             outline="#383838ff"
             outline_sel="#191919ff"
-            inner="#202020ff"
+            inner="#1f1f1fff"
             inner_sel="#96c6ddff"
             item="#292929ff"
             text="#c8c8c8"
@@ -419,7 +419,7 @@
         </channels>
         <scrubbing>
           <ThemeRegionsScrubbing
-            back="#202020ff"
+            back="#1f1f1fff"
             text="#8b8b8b"
             time_marker="#666666ff"
             time_marker_selected="#8b8b8bff"
@@ -428,7 +428,7 @@
         </scrubbing>
         <sidebars>
           <ThemeRegionsSidebars
-            back="#20202000"
+            back="#1f1f1f00"
             tab_back="#29292900"
             >
           </ThemeRegionsSidebars>
@@ -446,7 +446,7 @@
             channels_sub="#38383880"
             channel_group="#38383880"
             channel_group_active="#52525280"
-            channel="#20202000"
+            channel="#1f1f1f00"
             channel_selected="#3a454e80"
             keyframe="#8b8b8b"
             keyframe_selected="#96c6dd"
@@ -460,8 +460,8 @@
             keyframe_moving_hold_selected="#deb39c"
             keyframe_generated="#525252"
             keyframe_generated_selected="#c8c8c8"
-            long_key="#202020bf"
-            long_key_selected="#202020ff"
+            long_key="#1f1f1fbf"
+            long_key_selected="#1f1f1fff"
             >
           </ThemeCommonAnim>
         </anim>
@@ -509,7 +509,7 @@
         vertex_size="3"
         edge_select="#96c6dd"
         edge_mode_select="#96c6dd"
-        face="#20202000"
+        face="#1f1f1f00"
         face_select="#6192b268"
         face_mode_select="#6192b268"
         facedot_size="3"
@@ -599,7 +599,7 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#202020"
+            back="#1f1f1f"
             title="#c8c8c8"
             text="#c8c8c8"
             text_hi="#c8c8c8"
@@ -649,7 +649,7 @@
         keyframe_border="#191919ff"
         keyframe_border_selected="#191919ff"
         keyframe_scale_factor="1"
-        summary="#20202080"
+        summary="#1f1f1f80"
         anim_interpolation_linear="#87d6a8bf"
         anim_interpolation_constant="#dea489bf"
         anim_interpolation_other="#7ebed8bf"
@@ -753,7 +753,7 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#202020"
+            back="#1f1f1f"
             title="#c8c8c8"
             text="#c8c8c8"
             text_hi="#c8c8c8"
@@ -768,7 +768,7 @@
     <text_editor>
       <ThemeTextEditor
         line_numbers="#383838"
-        line_numbers_background="#202020"
+        line_numbers_background="#1f1f1f"
         selected_text="#2e2e2e"
         cursor="#e6e6e6"
         syntax_builtin="#8b8b8b"
@@ -782,7 +782,7 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#202020"
+            back="#1f1f1f"
             title="#c8c8c8"
             text="#c8c8c8"
             text_hi="#c8c8c8"
@@ -800,7 +800,7 @@
         node_outline="#ffffff20"
         node_selected="#96c6dd"
         node_active="#ffffff"
-        wire="#202020ff"
+        wire="#1f1f1fff"
         wire_inner="#595959"
         wire_select="#ffffff99"
         node_backdrop="#292929ff"
@@ -808,7 +808,7 @@
         color_node="#736a44"
         group_node="#161616"
         group_socket_node="#161616"
-        frame_node="#202020ff"
+        frame_node="#1f1f1fff"
         matte_node="#715045"
         distor_node="#415555"
         noodle_curving="0"
@@ -869,12 +869,12 @@
     <info>
       <ThemeInfo
         info_selected="#96c6dd"
-        info_selected_text="#202020"
-        info_error_text="#202020"
-        info_warning_text="#202020"
-        info_info_text="#202020"
+        info_selected_text="#1f1f1f"
+        info_error_text="#1f1f1f"
+        info_warning_text="#1f1f1f"
+        info_info_text="#1f1f1f"
         info_debug="#bcb8e2ff"
-        info_debug_text="#202020"
+        info_debug_text="#1f1f1f"
         info_property="#383838ff"
         info_property_text="#c8c8c8"
         info_operator="#383838ff"
@@ -882,7 +882,7 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#202020"
+            back="#1f1f1f"
             title="#c8c8c8"
             text="#c8c8c8"
             text_hi="#c8c8c8"
@@ -900,7 +900,7 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#202020"
+            back="#1f1f1f"
             title="#c8c8c8"
             text="#c8c8c8"
             text_hi="#c8c8c8"
@@ -923,7 +923,7 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#202020"
+            back="#1f1f1f"
             title="#c8c8c8"
             text="#c8c8c8"
             text_hi="#c8c8c8"
@@ -937,8 +937,8 @@
     </console>
     <clip_editor>
       <ThemeClipEditor
-        grid="#202020ff"
-        marker_outline="#202020"
+        grid="#1f1f1fff"
+        marker_outline="#1f1f1f"
         marker="#c8c8c8"
         active_marker="#ffffff"
         selected_marker="#96c6dd"
@@ -953,7 +953,7 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#202020"
+            back="#1f1f1f"
             title="#c8c8c8"
             text="#8b8b8b"
             text_hi="#c8c8c8"
