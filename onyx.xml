@@ -111,7 +111,7 @@
             outline="#383838ff"
             outline_sel="#525252ff"
             inner="#202020ff"
-            inner_sel="#1a1a1aff"
+            inner_sel="#191919ff"
             item="#383838ff"
             text="#c8c8c8"
             text_sel="#96c6dd"
@@ -159,7 +159,7 @@
             outline="#383838ff"
             outline_sel="#525252ff"
             inner="#202020ff"
-            inner_sel="#1a1a1aff"
+            inner_sel="#191919ff"
             item="#383838ff"
             text="#c8c8c8"
             text_sel="#96c6dd"
@@ -175,7 +175,7 @@
             outline="#383838ff"
             outline_sel="#525252ff"
             inner="#202020ff"
-            inner_sel="#1a1a1aff"
+            inner_sel="#191919ff"
             item="#383838ff"
             text="#c8c8c8"
             text_sel="#96c6dd"
@@ -192,7 +192,7 @@
             outline_sel="#525252ff"
             inner="#252525ff"
             inner_sel="#5c6067ff"
-            item="#1a1a1aff"
+            item="#191919ff"
             text="#c8c8c8"
             text_sel="#ffffff"
             show_shaded="FALSE"
@@ -223,7 +223,7 @@
             outline="#383838ff"
             outline_sel="#525252ff"
             inner="#202020ff"
-            inner_sel="#1a1a1aff"
+            inner_sel="#191919ff"
             item="#c8c8c8ff"
             text="#c8c8c8"
             text_sel="#ffffff"
@@ -287,8 +287,8 @@
             outline="#525252ff"
             outline_sel="#383838ff"
             inner="#202020ff"
-            inner_sel="#1a1a1aff"
-            item="#1a1a1aff"
+            inner_sel="#191919ff"
+            item="#191919ff"
             text="#c8c8c8"
             text_sel="#ffffff"
             show_shaded="FALSE"
@@ -385,7 +385,7 @@
         <wcol_tab>
           <ThemeWidgetColors
             outline="#383838ff"
-            outline_sel="#1a1a1aff"
+            outline_sel="#191919ff"
             inner="#202020ff"
             inner_sel="#96c6ddff"
             item="#292929ff"
@@ -487,9 +487,9 @@
     </common>
     <view_3d>
       <ThemeView3D
-        grid="#1a1a1aff"
+        grid="#191919ff"
         grid_major="#292929ff"
-        clipping_border_3d="#1a1a1aff"
+        clipping_border_3d="#191919ff"
         wire="#606060"
         wire_edit="#606060"
         edge_width="1"
@@ -514,7 +514,7 @@
         face_mode_select="#6192b268"
         facedot_size="3"
         face_back="#ff316b66"
-        face_front="#1a1a1a00"
+        face_front="#19191900"
         bevel="#8183ff"
         seam="#e37a56"
         sharp="#5df1d2"
@@ -542,7 +542,7 @@
         after_current_frame="#78f244"
         bundle_solid="#c8c8c8"
         camera_path="#606060"
-        camera_passepartout="#131313"
+        camera_passepartout="#121212"
         skin_root="#b44d4d"
         view_overlay="#404040"
         transform="#e6e6e6"
@@ -561,8 +561,8 @@
             <gradients>
               <ThemeGradientColors
                 background_type="SINGLE_COLOR"
-                high_gradient="#131313"
-                gradient="#1a1a1a"
+                high_gradient="#121212"
+                gradient="#121212"
                 >
               </ThemeGradientColors>
             </gradients>
@@ -646,8 +646,8 @@
     <dopesheet_editor>
       <ThemeDopeSheet
         grid="#333333"
-        keyframe_border="#1a1a1aff"
-        keyframe_border_selected="#1a1a1aff"
+        keyframe_border="#191919ff"
+        keyframe_border_selected="#191919ff"
         keyframe_scale_factor="1"
         summary="#20202080"
         anim_interpolation_linear="#87d6a8bf"
@@ -675,7 +675,7 @@
         vertex="#8b8b8b"
         vertex_select="#96c6dd"
         vertex_size="4"
-        face="#1a1a1abf"
+        face="#191919bf"
         face_select="#96c6dd12"
         face_mode_select="#00000000"
         facedot_size="4"
@@ -696,7 +696,7 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#1a1a1a"
+            back="#191919"
             title="#c8c8c8"
             text="#c8c8c8"
             text_hi="#c8c8c8"
@@ -726,7 +726,7 @@
         selected_strip="#96c6dd"
         keyframe_border="#000000ff"
         keyframe_border_selected="#000000ff"
-        preview_back="#1a1a1a"
+        preview_back="#191919"
         metadatabg="#000000"
         metadatatext="#c8c8c8"
         row_alternate="#ffffff03"
@@ -830,7 +830,7 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#1a1a1a"
+            back="#191919"
             title="#c8c8c8"
             text="#c8c8c8"
             text_hi="#c8c8c8"
