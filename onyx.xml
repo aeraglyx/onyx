@@ -582,7 +582,7 @@
             back="#292929"
             header="#292929ff"
             text="#c8c8c8"
-            text_hi="#c8c8c8"
+            text_hi="#000000"
             >
           </ThemeSpaceGeneric>
         </space>
@@ -626,7 +626,7 @@
             back="#292929"
             header="#292929ff"
             text="#c8c8c8"
-            text_hi="#c8c8c8"
+            text_hi="#000000"
             >
           </ThemeSpaceGeneric>
         </space>
@@ -649,7 +649,7 @@
             back="#292929"
             header="#292929ff"
             text="#a6a6a6"
-            text_hi="#c8c8c8"
+            text_hi="#000000"
             >
           </ThemeSpaceGeneric>
         </space>
@@ -721,7 +721,7 @@
             back="#252525"
             header="#292929ff"
             text="#c8c8c8"
-            text_hi="#c8c8c8"
+            text_hi="#000000"
             >
           </ThemeSpaceGeneric>
         </space>
@@ -915,7 +915,7 @@
             back="#1f1f1f"
             header="#292929ff"
             text="#8b8b8b"
-            text_hi="#c8c8c8"
+            text_hi="#000000"
             >
           </ThemeSpaceGeneric>
         </space>
