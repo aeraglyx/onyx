@@ -7,6 +7,7 @@
         icon_alpha="1"
         icon_saturation="0.3"
         widget_emboss="#00000033"
+        link="#a2c3d6ff"
         editor_border="#0e0e0e"
         editor_outline="#333333ff"
         editor_outline_active="#525252ff"
@@ -489,6 +490,7 @@
       <ThemeView3D
         grid="#191919ff"
         grid_major="#292929ff"
+        grid_axis_brightness="0.5"
         clipping_border_3d="#191919ff"
         wire="#606060"
         wire_edit="#606060"
